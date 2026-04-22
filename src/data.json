@@ -1,0 +1,1961 @@
+{
+  "Rings": [
+    {
+      "id": "lifering",
+      "name": "Life Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Life+Ring",
+      "description": "<ul><li>Can be selected as a Burial Gift during character creation. Can be bought from the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Shrine+Handmaid\">Shrine Handmaid</a> in the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Firelink+Shrine\">Firelink Shrine</a> for 1500 souls after acquiring the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Dreamchaser's+Ashes\">Dreamchaser's Ashes</a>.</li></ul>",
+      "icon": "icons/lifering.png"
+    },
+    {
+      "id": "sunprincessring",
+      "name": "Sun Princess Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Sun+Princess+Ring",
+      "description": "<ul><li>Found in Anor Londo. After defeating Aldrich, Devourer of Gods, take either elevator up to Gwynevere's bedchamber.</li></ul>",
+      "icon": "icons/sunprincessring.png"
+    },
+    {
+      "id": "estusring",
+      "name": "Estus Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Estus+Ring",
+      "description": "<ul><li>Found at the bottom of the Tower on the left side of the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Firelink+Shrine\">Firelink Shrine</a>. Requires the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Tower+Key\">Tower Key</a>, sold by the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Shrine+Handmaid\">Shrine Handmaid</a> in Firelink Shrine for 20,000 Souls.</li></ul>",
+      "icon": "icons/estusring.png"
+    },
+    {
+      "id": "ashenestusring",
+      "name": "Ashen Estus Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Ashen+Estus+Ring",
+      "description": "<ul><li>Located in the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Untended+Graves\">Untended Graves</a>. From the first bonfire head to the left most path. The ring is in the coffin surrounded by <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Corvian\">Corvians</a>.</li></ul>",
+      "icon": "icons/ashenestusring.png"
+    },
+    {
+      "id": "chloranthyring",
+      "name": "Chloranthy Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Chloranthy+Ring",
+      "description": "<ul><li>Found in <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Undead+Settlement\">Undead Settlement.</a> After defeating the Demon alongside Siegward of Catarina, scale the nearby building and exit onto the adjacent tower by jumping from the roof. Maneuvering down the tower, the ring will be located under several wooden boxes near the Mirrah Armor Set.</li></ul>",
+      "icon": "icons/chloranthyring.png"
+    },
+    {
+      "id": "havelsring",
+      "name": "Havel's Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Havel's+Ring",
+      "description": "<ul><li><a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Soul+Transposition\">Soul Transposition</a> using <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Soul+of+a+Stray+Demon\">Soul of a Stray Demon</a> Defeat Sulyvahn's Beasts near <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Archdeacon+McDonnell\">Archdeacon McDonnell</a>. <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Soul+Transposition\">Soul Transposition</a> using <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Soul+of+Champion+Gundyr\">Soul of Champion Gundyr</a>. Found in the boss arena where you fight the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Ancient+Wyvern\">Ancient Wyvern</a>. After entering through the fog gate, head up the stairs until you locate the bell. Then proceed to the right, downstairs. There are three items lying on the ground. Next to the items is a thin ledge that players can walk along. At the end of the path is the ring.</li></ul>",
+      "icon": "icons/havelsring.png"
+    },
+    {
+      "id": "ringoffavor",
+      "name": "Ring of Favor",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Ring+of+Favor",
+      "description": "<ul><li>Dropped by the Sulyvahn's Beast in the hidden water reserve area accessed via illusory wall in the Irithyll of the Boreal Valley.</li></ul>",
+      "icon": "icons/ringoffavor.png"
+    },
+    {
+      "id": "prisionerschain",
+      "name": "Prisoner's Chain",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Prisoner's+Chain",
+      "description": "<ul><li>Soul Transposition using the Soul of Champion Gundyr.</li></ul>",
+      "icon": "icons/prisionerschain.png"
+    },
+    {
+      "id": "ringofsteelprotection",
+      "name": "Ring of Steel Protection",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Ring+of+Steel+Protection",
+      "description": "<ul><li>Found in Archdragon Peak. Proceed through the Ancient Wyvern boss area to the bell, and look over the ledge to the right.</li></ul>",
+      "icon": "icons/ringofsteelprotection.png"
+    },
+    {
+      "id": "magicstoneplatering",
+      "name": "Magic Stoneplate Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Magic+Stoneplate+Ring",
+      "description": "<ul><li>Dropped from the greatsword-wielding Consumed King's Knight guarding <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Oceiros,+the+Consumed+King\">Oceiros, the Consumed King</a>.</li></ul>",
+      "icon": "icons/magicstoneplatering.png"
+    },
+    {
+      "id": "flamestoneplatering",
+      "name": "Flame Stoneplate Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Flame+Stoneplate+Ring",
+      "description": "<ul><li>Found on a corpse hanging at a tree overlooking the entrance of the tower with the giant in it at <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Undead+Settlement\">Undead Settlement</a> (the same area where you enter the cage to join the Mound Makers).</li></ul>",
+      "icon": "icons/flamestoneplatering.png"
+    },
+    {
+      "id": "thunderstoneplatering",
+      "name": "Thunder Stoneplate Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Thunder+Stoneplate+Ring",
+      "description": "<ul><li><a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Archdragon+Peak\">Archdragon Peak</a>: From the second bonfire, proceed through the area until you get outside, then near the wooden scaffold there is a ladder which leads to the ring</li></ul>",
+      "icon": "icons/thunderstoneplatering.png"
+    },
+    {
+      "id": "darkstoneplatering",
+      "name": "Dark Stoneplate Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Dark+Stoneplate+Ring",
+      "description": "<ul><li>In <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Anor+Londo\">Anor Londo</a>, following the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Pontiff+Sulyvahn\">Pontiff Sulyvahn</a> bonfire. The ring will be guarded by Irithyllian Slaves in an area beneath the Deacons casting Fireball.</li></ul>",
+      "icon": "icons/darkstoneplatering.png"
+    },
+    {
+      "id": "speckledstoneplatering",
+      "name": "Speckled Stoneplate Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Speckled+Stoneplate+Ring",
+      "description": "<ul><li>Found on a corpse in <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Smouldering+Lake\">Smouldering Lake</a>, behind a destructible wall on the other side from which you enter. Lure a ballista shot to break the wall apart.</li></ul>",
+      "icon": "icons/speckledstoneplatering.png"
+    },
+    {
+      "id": "bloodbitering",
+      "name": "Bloodbite Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Bloodbite+Ring",
+      "description": "<ul><li><a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Undead+Settlement\">Undead Settlement</a>, in the sewers below Cliff Underside bonfire or beside the Dilapidated Bridge bonfire. The Large Hound-Rat will drop the ring.</li></ul>",
+      "icon": "icons/bloodbitering.png"
+    },
+    {
+      "id": "poisonbitering",
+      "name": "Poisonbite Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Poisonbite+Ring",
+      "description": "<ul><li>Near the first short cut at <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Cathedral+of+the+Deep\">Cathedral of the Deep</a> behind the Ravenous Crystal Lizard.</li></ul>",
+      "icon": "icons/poisonbitering.png"
+    },
+    {
+      "id": "cursebitering",
+      "name": "Cursebite Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Cursebite+Ring",
+      "description": "<ul><li><a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Profaned+Capital\">Profaned Capital</a>, toxic swamp in the cave under the wooden bridge.</li></ul>",
+      "icon": "icons/cursebitering.png"
+    },
+    {
+      "id": "fleshbitering",
+      "name": "Fleshbite Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Fleshbite+Ring",
+      "description": "<ul><li><a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Grand+Archives\">Grand Archives</a>, near the top floor of building just beyond the area with a balcony overhead and multiple Scholars, there will be a set of bookcases to the right of the stairs which lead you to the room. The ring will be located in the corner past the Clawed Curses.</li></ul>",
+      "icon": "icons/fleshbitering.png"
+    },
+    {
+      "id": "knightsring",
+      "name": "Knight's Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Knight's+Ring",
+      "description": "<ul><li><a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Lothric+Castle\">Lothric Castle</a>, near the Sunlight Shrine.</li></ul>",
+      "icon": "icons/knightsring.png"
+    },
+    {
+      "id": "huntersring",
+      "name": "Hunter's Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Hunter's+Ring",
+      "description": "<ul><li><a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Grand+Archives\">Grand Archives</a>- Found at the top of a tower surrounded by three golden Winged Knights before the stairs to Prince Lothric.</li></ul>",
+      "icon": "icons/huntersring.png"
+    },
+    {
+      "id": "scholarring",
+      "name": "Scholar Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Scholar+Ring",
+      "description": "<ul><li><a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Grand+Archives\">Grand Archives</a> - Facing the wooden bridge where the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Crystal+Sage\">Crystal Sage</a> teleports to, there is a lever to the right, tucked between the bridge and the bookcases. The ring is on a corpse in a chair in the revealed area.</li></ul>",
+      "icon": "icons/scholarring.png"
+    },
+    {
+      "id": "priestessring",
+      "name": "Priestess Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Priestess+Ring",
+      "description": "<ul><li>Sold by the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Shrine+Handmaid\">Shrine Handmaid</a> in <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Untended+Graves\">Untended Graves</a>.Dropped by the Shrine Handmaid in Untended Graves, even if you've already purchased it from her.</li></ul>",
+      "icon": "icons/priestessring.png"
+    },
+    {
+      "id": "covetousgoldserpentring",
+      "name": "Covetous Gold Serpent Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Covetous+Gold+Serpent+Ring",
+      "description": "<ul><li>Found next to <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Siegward+of+Catarina\">Siegward of Catarina</a> when he is trapped in <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Irithyll+Dungeon\">Irithyll Dungeon</a>.</li></ul>",
+      "icon": "icons/covetousgoldserpentring.png"
+    },
+    {
+      "id": "covetoussilverserpentring",
+      "name": "Covetous Silver Serpent Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Covetous+Silver+Serpent+Ring",
+      "description": "<ul><li>In a chest behind an <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Illusory+Walls\">illusory wall</a> at the top of <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Firelink+Shrine\">Firelink Shrine</a>. Located behind Picklepum's indoor nest.</li></ul>",
+      "icon": "icons/covetoussilverserpentring.png"
+    },
+    {
+      "id": "saintsring",
+      "name": "Saint's Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Saint's+Ring",
+      "description": "<ul><li>Sold by <a class=\"description-link\" target=\"_blank\" rel=\"noreferrer\" href=\"https://darksouls3.wiki.fextralife.com/Irina+of+Carim\">Irina of Carim</a> for 300 souls.</li><li>Sold by <a class=\"description-link\" target=\"_blank\" rel=\"noreferrer\" href=\"https://darksouls3.wiki.fextralife.com/Shrine+Handmaid\">Shrine Handmaid</a> for 300 souls, only after giving <a class=\"description-link\" target=\"_blank\" rel=\"noreferrer\" href=\"https://darksouls3.wiki.fextralife.com/Irina's+Ashes\">Irina's Ashes</a>.</li></ul>",
+      "icon": "icons/saintsring.png"
+    },
+    {
+      "id": "deepring",
+      "name": "Deep Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Deep+Ring",
+      "description": "<ul><li>Drops from a Deacon in a tower outside the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Cathedral+of+the+Deep\">Cathedral of the Deep</a>.</li></ul>",
+      "icon": "icons/deepring.png"
+    },
+    {
+      "id": "darkmoonring",
+      "name": "Darkmoon Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Darkmoon+Ring",
+      "description": "<ul><li>Rank 1 covenant reward: <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Blades+of+the+Darkmoon\">Blade of the Darkmoon</a>.</li></ul>",
+      "icon": "icons/darkmoonring.png"
+    },
+    {
+      "id": "youngdragonring",
+      "name": "Young Dragon Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Young+Dragon+Ring",
+      "description": "<ul><li>Starting equipment for the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Sorcerer\">Sorcerer</a>. Given by <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim\">Orbeck of Vinheim</a> after purchasing several spells.</li></ul>",
+      "icon": "icons/youngdragonring.png"
+    },
+    {
+      "id": "bellowingdragoncrestring",
+      "name": "Bellowing Dragoncrest Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Bellowing+Dragoncrest+Ring",
+      "description": "<ul><li>From the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Irithyll+Dungeon\">Irithyll Dungeon</a> bonfire, head straight into the large room and then turn right, proceed until the end of the corridor and open the gate with the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Jailbreaker's+Key\">Jailbreaker's Key</a>. The ring is on the rocks below.</li></ul>",
+      "icon": "icons/bellowingdragoncrestring.png"
+    },
+    {
+      "id": "greatswampring",
+      "name": "Great Swamp Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Great+Swamp+Ring",
+      "description": "<ul><li>Starting equipment for the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Pyromancer\">Pyromancer</a>. Dropped by the Great Crab, up the ladder near the Farron Keep bonfire in the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Road+of+Sacrifices\">Road of Sacrifices</a>.</li></ul>",
+      "icon": "icons/greatswampring.png"
+    },
+    {
+      "id": "witchsring",
+      "name": "Witch's Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Witch's+Ring",
+      "description": "<ul><li><a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Catacombs+of+Carthus\">Catacombs of Carthus</a>: just after the stray demon, walking towards the 'Abandoned Tomb' Bonfire, there will be a corpse holding the ring at the end of a hallway.</li></ul>",
+      "icon": "icons/witchsring.png"
+    },
+    {
+      "id": "mornesring",
+      "name": "Morne's Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Morne's+Ring",
+      "description": "<ul><li>Under the bridge between the 1st and 2nd bonfires of <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Road+of+Sacrifices\">Road of Sacrifices</a>. There is an area to the right of the bridge's beginning where players may drop down into the cave. In <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Irithyll+of+the+Boreal+Valley\">Irithyll of the Boreal Valley</a>. From <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Pontiff+Sulyvahn\">Pontiff Sulyvahn's</a> room, head back out towards the railing and fall straight onto the altar below.</li></ul>",
+      "icon": "icons/mornesring.png"
+    },
+    {
+      "id": "ringofthesunsfirstborn",
+      "name": "Ring of the Sun's First Born",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Ring+of+the+Sun's+First+Born",
+      "description": "<ul><li>Found in Irithyll of the Boreal Valley. Drop down from the ledge right outside the Pontiff Sulyvahn boss room.</li></ul>",
+      "icon": "icons/ringofthesunsfirstborn.png"
+    },
+    {
+      "id": "lingeringdragoncrestring",
+      "name": "Lingering Dragoncrest Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Lingering+Dragoncrest+Ring",
+      "description": "<ul><li><a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Farron+Keep\">Farron Keep</a>, Keep Ruins bonfire. Drops from the Great Crab patrolling a white birch tree.</li></ul>",
+      "icon": "icons/lingeringdragoncrestring.png"
+    },
+    {
+      "id": "sagering",
+      "name": "Sage Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Sage+Ring",
+      "description": "<ul><li>Found to the left of the swamp area of <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Road+of+Sacrifices\">Road of Sacrifices</a> inside a room with an enemy.</li></ul>",
+      "icon": "icons/sagering.png"
+    },
+    {
+      "id": "duskcrownring",
+      "name": "Dusk Crown Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Dusk+Crown+Ring",
+      "description": "<ul><li>Located in the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Irithyll+Dungeon\">Irithyll Dungeon</a>. The ring is in a cell beside the open area with six patrolling Jailers.</li></ul>",
+      "icon": "icons/duskcrownring.png"
+    },
+    {
+      "id": "leoring",
+      "name": "Leo Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Leo+Ring",
+      "description": "<ul><li>Found in a chest on the second floor of the room with Gwynevere's painting in <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Irithyll+of+the+Boreal+Valley\">Irithyll of the Boreal Valley</a>. Just beyond where either Siegward of Catarina is located during his questline or, more commonly notable, the Estus Soup is placed.</li></ul>",
+      "icon": "icons/leoring.png"
+    },
+    {
+      "id": "wolfring",
+      "name": "Wolf Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Wolf+Ring",
+      "description": "<ul><li>Rank 2 covenant reward: <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Watchdogs+of+Farron\">Watchdogs of Farron</a>.</li></ul>",
+      "icon": "icons/wolfring.png"
+    },
+    {
+      "id": "hawkring",
+      "name": "Hawk Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Hawk+Ring",
+      "description": "<ul><li>Dropped from the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Giant+of+the+Undead+Settlement\">Giant</a>at the top of the tower in the Undead Settlement, upon his death.</li></ul>",
+      "icon": "icons/hawkring.png"
+    },
+    {
+      "id": "hornetring",
+      "name": "Hornet Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Hornet+Ring",
+      "description": "<ul><li>Found in <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Untended+Graves\">Untended Graves</a>, behind a Black Knight standing guard where the Starved Hound is found when at the Firelink Shrine.</li></ul>",
+      "icon": "icons/hornetring.png"
+    },
+    {
+      "id": "knightslayersring",
+      "name": "Knight Slayer's Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Knight+Slayer's+Ring",
+      "description": "<ul><li>Defeating the dark phantom of  <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Knight+Slayer+Tsorig\">Knight Slayer Tsorig</a> at Catacomb of Carthus. Location to summon him is in a barred area beside the Skeleton Ball's path or the Hound-Rats. Or if the invasion was skipped, gained from killing <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Knight+Slayer+Tsorig\">Knight Slayer Tsorig</a> at <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Smouldering+Lake\">Smouldering Lake</a>. After the basilisks, turn left at the bottom of the stairs.</li></ul>",
+      "icon": "icons/knightslayersring.png"
+    },
+    {
+      "id": "ringoftheevileye",
+      "name": "Ring of the Evil Eye",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Ring+of+the+Evil+Eye",
+      "description": "<ul><li>Quest Reward: <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Anri+of+Astora\">Anri of Astora</a>. Obtained when Anri relocates to the Church of Yorshka.</li></ul>",
+      "icon": "icons/ringoftheevileye.png"
+    },
+    {
+      "id": "farronring",
+      "name": "Farron Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Farron+Ring",
+      "description": "<ul><li>Acquired by talking to <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Hawkwood\">Hawkwood</a> after defeating the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Abyss+Watchers\">Abyss Watchers</a>.</li></ul>",
+      "icon": "icons/farronring.png"
+    },
+    {
+      "id": "dragonscalering",
+      "name": "Dragonscale Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Dragonscale+Ring",
+      "description": "<ul><li>Found in the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Consumed+King's+Garden\">Consumed King's Garden</a>. When taking the second elevator in the area which grants a shortcut, get off early to reach a ledge with a Lothric Priest. The ring will be beside him.</li></ul>",
+      "icon": "icons/dragonscalering.png"
+    },
+    {
+      "id": "horsehoofring",
+      "name": "Horsehoof Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Horsehoof+Ring",
+      "description": "<ul><li>Sold by <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Unbreakable+Patches\">Unbreakable Patches</a> for 500 souls.Dropped by Unbreakable Patches upon his death.</li></ul>",
+      "icon": "icons/horsehoofring.png"
+    },
+    {
+      "id": "woodgrainring",
+      "name": "Wood Grain Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Wood+Grain+Ring",
+      "description": "<ul><li>Purchased from the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Shrine+Handmaid\">Shrine Handmaid</a> after <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Easterner's+Ashes\">Easterner's Ashes</a> is turned in.</li></ul>",
+      "icon": "icons/woodgrainring.png"
+    },
+    {
+      "id": "flynnsring",
+      "name": "Flynn's Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Flynn's+Ring",
+      "description": "<ul><li>Looted from a corpse on the top of a roof at <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Undead+Settlement\">Undead Settlement</a>: In the area where you fight the Fire Demon with <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Siegward+of+Catarina\">Siegward of Catarina</a>.</li></ul>",
+      "icon": "icons/flynnsring.png"
+    },
+    {
+      "id": "magicclutchring",
+      "name": "Magic Clutch Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Magic+Clutch+Ring",
+      "description": "<ul><li><a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Irithyll+of+the+Boreal+Valley\">Irithyll of the Boreal Valley</a>- From the Church of Yorshka bonfire, go back the way you came from. Head down the curved staircase and then left through the archway. Ahead up more stairs and to the right of the Fire witch and 2 Pontiff Knights is an illusionary wall. Behind which you'll find the ring.</li></ul>",
+      "icon": "icons/magicclutchring.png"
+    },
+    {
+      "id": "fireclutchring",
+      "name": "Fire Clutch Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Fire+Clutch+Ring",
+      "description": "<ul><li>On a corpse in the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Undead+Settlement\">Undead Settlement</a>. Behind the gallows on a wooden bridge, an area directly above the Cliff Underside Bonfire.</li></ul>",
+      "icon": "icons/fireclutchring.png"
+    },
+    {
+      "id": "lightningclutchring",
+      "name": "Lightning Clutch Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Lightning+Clutch+Ring",
+      "description": "<ul><li>On a corpse in <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Archdragon+Peak\">Archdragon Peak</a>, to the left of the gate that leads to the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Ancient+Wyvern\">Ancient Wyvern</a>.</li></ul>",
+      "icon": "icons/lightningclutchring.png"
+    },
+    {
+      "id": "darkclutchring",
+      "name": "Dark Clutch Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Dark+Clutch+Ring",
+      "description": "<ul><li>Dropped by a mimic in the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Irithyll+Dungeon\">Irithyll Dungeon</a>. After passing the giant there is a hallway with rats. The mimic is at the end of the hallway on the left side.</li></ul>",
+      "icon": "icons/darkclutchring.png"
+    },
+    {
+      "id": "redtearstonering",
+      "name": "Red Tearstone Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Red+Tearstone+Ring",
+      "description": "<ul><li><a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Lothric+Castle\">Lothric Castle</a>- Facing away from the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Dragonslayer+Armour\">Dragonslayer Armour</a> Boss, to the left there is an elevator. Beside the elevator is a door to the balcony. Follow the balcony to the right to find this ring.</li></ul>",
+      "icon": "icons/redtearstonering.png"
+    },
+    {
+      "id": "bluetearstonering",
+      "name": "Blue Tearstone Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Blue+Tearstone+Ring",
+      "description": "<ul><li>Given by <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Greirat+of+the+Undead+Settlement\">Greirat of the Undead Settlement</a>.</li></ul>",
+      "icon": "icons/bluetearstonering.png"
+    },
+    {
+      "id": "lloydsswordring",
+      "name": "Lloyd's Sword Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Lloyd's+Sword+Ring",
+      "description": "<ul><li>On a corpse inside <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Cathedral+of+the+Deep\">Cathedral of the Deep</a>, near the entrance on a ledge next to the Giant who attacks you when running by.</li></ul>",
+      "icon": "icons/lloydsswordring.png"
+    },
+    {
+      "id": "lloydsshieldring",
+      "name": "Lloyd's Shield Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Lloyd's+Shield+Ring",
+      "description": "<ul><li>Can be bought from the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Shrine+Handmaid\">Shrine Handmaid</a>, after <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Paladin's+Ashes\">Paladin's Ashes</a> are given to her. Found within the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Catacombs+of+Carthus\">Catacombs of Carthus</a> just after the first bonfire in a room with many vases. Found at <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Catacombs+of+Carthus\">Catacombs of Carthus</a>, from the second bonfire past the wheel skeletons.</li></ul>",
+      "icon": "icons/lloydsshieldring.png"
+    },
+    {
+      "id": "carthusmilkring",
+      "name": "Carthus Milkring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Carthus+Milkring",
+      "description": "<ul><li>Found in the Catacombs of Carthus in the room with the many bone-filled pots.</li></ul>",
+      "icon": "icons/carthusmilkring.png"
+    },
+    {
+      "id": "carthusbloodring",
+      "name": "Carthus Bloodring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Carthus+Bloodring",
+      "description": "<ul><li>Found in the Catacombs of Carthus, at the end of the hallway with the wheel skeletons.</li></ul>",
+      "icon": "icons/carthusbloodring.png"
+    },
+    {
+      "id": "pontiffsrighteye",
+      "name": "Pontiff's Right Eye",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Pontiff's+Right+Eye",
+      "description": "<ul><li>Located in the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Irithyll+of+the+Boreal+Valley\">Irithyll of the Boreal Valley</a>. Drops from the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Sulyvahn's+Beast\">Sulyvahn's Beast</a>, who spawns either on the bridge entering Irithyll, or the water below the bridge if you fail to kill it the first time.</li></ul>",
+      "icon": "icons/pontiffsrighteye.png"
+    },
+    {
+      "id": "pontiffslefteye",
+      "name": "Pontiff's Left Eye",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Pontiff's+Left+Eye",
+      "description": "<ul><li><a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Soul+Transposition\">Soul Transposition</a> using <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Soul+of+Boreal+Valley+Vordt\">Soul of Boreal Valley Vordt</a>.</li></ul>",
+      "icon": "icons/pontiffslefteye.png"
+    },
+    {
+      "id": "aldrichsruby",
+      "name": "Aldrich's Ruby",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Aldrich's+Ruby",
+      "description": "<ul><li>Dropped by the Deep Accursed in <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Anor+Londo\">Anor Londo</a>.</li></ul>",
+      "icon": "icons/aldrichsruby.png"
+    },
+    {
+      "id": "aldrichssapphire",
+      "name": "Aldrich's Sapphire",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Aldrich's+Sapphire",
+      "description": "<ul><li>Dropped by the Deep Accursed in the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Cathedral+of+the+Deep\">Cathedral of the Deep</a>.</li></ul>",
+      "icon": "icons/aldrichssapphire.png"
+    },
+    {
+      "id": "silvercatring",
+      "name": "Silvercat Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Silvercat+Ring",
+      "description": "<ul><li>Given by <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Sirris+of+the+Sunless+Realms\">Sirris of the Sunless Realms</a> after helping her defeat Creighton in <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Irithyll+of+the+Boreal+Valley\">Irithyll of the Boreal Valley</a>. Given by <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim\">Orbeck of Vinheim</a> after you have purchased <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Aural+Decoy\">Aural Decoy</a>, <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Farron+Flashsword\">Farron Flashsword</a>,<a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Pestilent+Mist\">Pestilent Mist</a>, and <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Spook\">Spook</a>, along with the 'Silent Ally' gesture.</li></ul>",
+      "icon": "icons/silvercatring.png"
+    },
+    {
+      "id": "slumberingdragoncrestring",
+      "name": "Slumbering Dragoncrest Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Slumbering+Dragoncrest+Ring",
+      "description": "<ul><li>Given by Orbeck of Vinheim after you purchase Aural Decoy, Farron Flashsword, Pestilent Mist, and Spook.</li></ul>",
+      "icon": "icons/slumberingdragoncrestring.png"
+    },
+    {
+      "id": "obscuringring",
+      "name": "Obscuring Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Obscuring+Ring",
+      "description": "<ul><li>Rank 1 covenant reward: <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Rosaria's+Fingers\">Rosaria's Fingers</a>. Note: in order to get this ring and the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Silvercat+Ring\">Silvercat Ring</a> in one playthrough, only offer the Pale Tongues to <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Rosaria\">Rosaria</a> after getting the Silvercat ring from <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Sirris+of+the+Sunless+Realms\">Sirris of the Sunless Realms</a>.</li></ul>",
+      "icon": "icons/obscuringring.png"
+    },
+    {
+      "id": "untruedarkring",
+      "name": "Untrue Dark Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Untrue+Dark+Ring",
+      "description": "<ul><li>Purchased from <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Yuria+of+Londor\">Yuria of Londor</a>.</li></ul>",
+      "icon": "icons/untruedarkring.png"
+    },
+    {
+      "id": "untruewhitering",
+      "name": "Untrue White Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Untrue+White+Ring",
+      "description": "<ul><li>Purchased from <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Yuria+of+Londor\">Yuria of Londor</a>.</li></ul>",
+      "icon": "icons/untruewhitering.png"
+    },
+    {
+      "id": "reversalring",
+      "name": "Reversal Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Reversal+Ring",
+      "description": "<ul><li>Found in the Darkmoon Tomb in <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Anor+Londo\">Anor Londo</a> to the right of the altar. For reference, the Darkmoon Tomb is hidden behind an illusory wall in the circular room before the lever which controls the platform leading to the Anor Londo bonfire.</li></ul>",
+      "icon": "icons/reversalring.png"
+    },
+    {
+      "id": "skullring",
+      "name": "Skull Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Skull+Ring",
+      "description": "<ul><li>Dropped from <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Ludleth+of+Courland\">Ludleth of Courland</a> when killed or can be obtained by visiting his throne before beginning the next Journey.</li></ul>",
+      "icon": "icons/skullring.png"
+    },
+    {
+      "id": "calamityring",
+      "name": "Calamity Ring",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Calamity+Ring",
+      "description": "<ul><li>Received by using the Path of the Dragon gesture in front of the dragon statue in the Dragonkin Mausoleum at Archdragon Peak.</li></ul>",
+      "icon": "icons/calamityring.png"
+    },
+    {
+      "id": "ringofsacrifice",
+      "name": "Ring of Sacrifice",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Ring+of+Sacrifice",
+      "description": "<ul><li>Sold by Yuria of Londor or found on a corpse at the High Wall of Lothric below the dragon.</li></ul>",
+      "icon": "icons/ringofsacrifice.png"
+    }
+  ],
+  "Gestures": [
+    {
+      "id": "beckon",
+      "name": "Beckon",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/gestures",
+      "icon": "icons/beckon.png",
+      "description": "<ul><li>Received from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Yoel of Londor\" href=\"https://darksouls3.wiki.fextralife.com/Yoel+of+Londor\">Yoel of Londor</a>. Talk to him near the Foot of the High Wall bonfire and take him into your service. Talk to him again in <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Firelink Shrine\" href=\"https://darksouls3.wiki.fextralife.com/Firelink+Shrine\">Firelink Shrine</a> to get the gesture.</li></ul>"
+    },
+    {
+      "id": "callover",
+      "name": "Call Over",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/gestures",
+      "icon": "icons/call_over.png",
+      "description": "<ul><li>Received after you trade a Homeward Bone with the<a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Pickle Pee, Pump-a-Rum Crow\" href=\"https://darksouls3.wiki.fextralife.com/Pickle+Pee,+Pump-a-Rum+Crow\"> Pump-a-Rum Crow</a>.</li></ul>"
+    },
+    {
+      "id": "welcome",
+      "name": "Welcome",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/gestures",
+      "icon": "icons/welcome.png",
+      "description": "<ul><li>Received from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Cornyx of the Great Swamp\" href=\"https://darksouls3.wiki.fextralife.com/Cornyx+of+the+Great+Swamp\">Cornyx of the Great Swamp</a>. Talk to him in the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Undead Settlement\" href=\"https://darksouls3.wiki.fextralife.com/Undead+Settlement\">Undead Settlement</a> and accept his services. Then talk to him in <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Firelink Shrine\" href=\"https://darksouls3.wiki.fextralife.com/Firelink+Shrine\">Firelink Shrine</a>, leave the conversation, and talk to him again to receive this gesture.</li></ul>"
+    },
+    {
+      "id": "applause",
+      "name": "Applause",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/gestures",
+      "icon": "icons/applause.png",
+      "description": "<ul><li>Received from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Leonhard\" href=\"https://darksouls3.wiki.fextralife.com/Leonhard\">Ringfinger Leonhard</a>: \n     <ol><li> Talk to him once he appears in <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Firelink Shrine\" href=\"https://darksouls3.wiki.fextralife.com/Firelink+Shrine\">Firelink Shrine</a>. He will give you five <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Cracked Red Eye Orb\" href=\"https://darksouls3.wiki.fextralife.com/Cracked+Red+Eye+Orb\">Cracked Red Eye Orbs</a>. </li><li> Talk to him again after acquiring a <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Pale Tongue\" href=\"https://darksouls3.wiki.fextralife.com/Pale+Tongue\">Pale Tongue</a> and he will give you the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Lift Chamber Key\" href=\"https://darksouls3.wiki.fextralife.com/Lift+Chamber+Key\">Lift Chamber Key</a>. </li><li> Unlock the door at the lowest level below the Tower on the Wall bonfire and descend the lift. Kill the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Darkwraith\" href=\"https://darksouls3.wiki.fextralife.com/Darkwraith\">Darkwraith</a> to receive a <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Red Eye Orb\" href=\"https://darksouls3.wiki.fextralife.com/Red+Eye+Orb\">Red Eye Orb</a>. </li><li> Talk to Leonhard afterward and he will give you the gesture. </li></ol></li></ul>"
+    },
+    {
+      "id": "quietresolve",
+      "name": "Quiet Resolve",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/gestures",
+      "icon": "icons/quiet_resolve.png",
+      "description": "<ul><li>Received from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Anri of Astora\" href=\"https://darksouls3.wiki.fextralife.com/Anri+of+Astora\">Anri of Astora</a> near the Church of Yorshka bonfire in <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irithyll of the Boreal Valley\" href=\"https://darksouls3.wiki.fextralife.com/Irithyll+of+the+Boreal+Valley\">Irithyll of the Boreal Valley</a>, if you are following his/her questline.</li></ul>"
+    },
+    {
+      "id": "rejoice",
+      "name": "Rejoice",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/gestures",
+      "icon": "icons/rejoice.png",
+      "description": "<ul><li>Received from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Siegward of Catarina\" href=\"https://darksouls3.wiki.fextralife.com/Siegward+of+Catarina\">Siegward of Catarina</a> after you give him his <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Catarina Set\" href=\"https://darksouls3.wiki.fextralife.com/Catarina+Set\">armor</a> just outside the Cleansing Chapel in the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Cathedral of the Deep\" href=\"https://darksouls3.wiki.fextralife.com/Cathedral+of+the+Deep\">Cathedral of the Deep</a>.</li></ul>"
+    },
+    {
+      "id": "hurrah",
+      "name": "Hurrah!",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/gestures",
+      "icon": "icons/hurrah!.png",
+      "description": "<ul><li>Received after selecting 'Talk' twice to <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Blacksmith Andre\" href=\"https://darksouls3.wiki.fextralife.com/Blacksmith+Andre\">Blacksmith Andre.</a></li></ul>"
+    },
+    {
+      "id": "praisethesun",
+      "name": "Praise the Sun",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/gestures",
+      "icon": "icons/praise_the_sun.png",
+      "description": "<ul><li>Received after praying at the Altar of Sunlight in <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Lothric Castle\" href=\"https://darksouls3.wiki.fextralife.com/Lothric+Castle\">Lothric Castle</a>. <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" href=\"https://www.youtube.com/watch?v=ipuCyXGUqrY&amp;feature=youtu.be&amp;t=1h49m15s\">[Video Location]</a></li></ul>"
+    },
+    {
+      "id": "mythanks",
+      "name": "My Thanks!",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/gestures",
+      "icon": "icons/my_thanks!.png",
+      "description": "<ul><li>Received from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Knight Slayer Tsorig\" href=\"https://darksouls3.wiki.fextralife.com/Knight+Slayer+Tsorig\">Knight Slayer Tsorig</a> upon killing him or being killed by him, either as an invader in the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Catacombs of Carthus\" href=\"https://darksouls3.wiki.fextralife.com/Catacombs+of+Carthus\">Catacombs of Carthus</a> or as an NPC in <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Smouldering Lake\" href=\"https://darksouls3.wiki.fextralife.com/Smouldering+Lake\">Smouldering Lake</a> near the lake of fire with the bridge leading to a ladder to the ballista above it.</li></ul>"
+    },
+    {
+      "id": "properbow",
+      "name": "Proper Bow",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/gestures",
+      "icon": "icons/proper_bow.png",
+      "description": "<ul><li>Received upon summoning <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Yellowfinger Heysel\" href=\"https://darksouls3.wiki.fextralife.com/Yellowfinger+Heysel\">Yellowfinger Heysel</a> in <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Farron Keep\" href=\"https://darksouls3.wiki.fextralife.com/Farron+Keep\">Farron Keep</a>: \n     <ol><li> Offer a <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Pale Tongue\" href=\"https://darksouls3.wiki.fextralife.com/Pale+Tongue\">Pale Tongue</a> to <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Rosaria, Mother of Rebirth\" href=\"https://darksouls3.wiki.fextralife.com/Rosaria,+Mother+of+Rebirth\">Rosaria, Mother of Rebirth</a>. </li><li> <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Yellowfinger Heysel\" href=\"https://darksouls3.wiki.fextralife.com/Yellowfinger+Heysel\">Yellowfinger Heysel's</a> summon sign will appear next to the tower full of slugs near the Keep Ruins bonfire. </li></ol> Notes: \n     <ul><li> <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Abyss Watchers\" href=\"https://darksouls3.wiki.fextralife.com/Abyss+Watchers\">Abyss Watchers</a> must still be alive. </li><li> Giving a <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Pale Tongue\" href=\"https://darksouls3.wiki.fextralife.com/Pale+Tongue\">Pale Tongue</a> to <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Rosaria, Mother of Rebirth\" href=\"https://darksouls3.wiki.fextralife.com/Rosaria,+Mother+of+Rebirth\">Rosaria, Mother of Rebirth</a> will cause <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Sirris of the Sunless Realms\" href=\"https://darksouls3.wiki.fextralife.com/Sirris+of+the+Sunless+Realms\">Sirris of the Sunless Realms'</a> questline to fail and you will not be able to receive the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Silvercat Ring\" href=\"https://darksouls3.wiki.fextralife.com/Silvercat+Ring\">Silvercat Ring</a>, <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Sunset Armor Set\" href=\"https://darksouls3.wiki.fextralife.com/Sunset+Armor+Set\">Sunset Armor Set</a>, <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Sunset Shield\" href=\"https://darksouls3.wiki.fextralife.com/Sunset+Shield\">Sunset Shield</a>, <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Sunless Talisman\" href=\"https://darksouls3.wiki.fextralife.com/Sunless+Talisman\">Sunless Talisman</a>, <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Dragonslayer's Axe\" href=\"https://darksouls3.wiki.fextralife.com/Dragonslayer's+Axe\">Dragonslayer's Axe</a>, or the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Mirrah Chain Set\" href=\"https://darksouls3.wiki.fextralife.com/Mirrah+Chain+Set\">Mirrah Chain Set</a> (and Darkmoon Loyalty, if you didn't get it before) until the next NG cycle. However, she can be killed in <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Firelink Shrine\" href=\"https://darksouls3.wiki.fextralife.com/Firelink+Shrine\">Firelink Shrine</a> to receive the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Sunless Set\" href=\"https://darksouls3.wiki.fextralife.com/Sunless+Set\">Sunless Set</a> and <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Sunless Talisman\" href=\"https://darksouls3.wiki.fextralife.com/Sunless+Talisman\">Sunless Talisman</a> from the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Shrine Handmaid\" href=\"https://darksouls3.wiki.fextralife.com/Shrine+Handmaid\">Shrine Handmaid</a> if her quest has failed.  </li><li> There is a cap of 99 <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Pale Tongue\" href=\"https://darksouls3.wiki.fextralife.com/Pale+Tongue\">Pale Tongues</a> you can offer. If you reach this limit, you can't offer more, and, consequently, you can't gain this gesture anymore. <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Pale Tongue\" href=\"https://darksouls3.wiki.fextralife.com/Pale+Tongue\">Pale Tongues</a> used for respecs don't count toward the 99 limit. </li></ul></li></ul>"
+    },
+    {
+      "id": "dignifiedbow",
+      "name": "Dignified Bow",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/gestures",
+      "icon": "icons/dignified_bow.png",
+      "description": "<ul><li>Received from talking to <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Yuria of Londor\" href=\"https://darksouls3.wiki.fextralife.com/Yuria+of+Londor\">Yuria of Londor</a>.</li></ul>"
+    },
+    {
+      "id": "duelbow",
+      "name": "Duel Bow",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/gestures",
+      "icon": "icons/duel_bow.png",
+      "description": "<ul><li>Received upon summoning the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Londor Pale Shade\" href=\"https://darksouls3.wiki.fextralife.com/Londor+Pale+Shade\">Londor Pale Shade</a> once you have five <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Dark Sigil\" href=\"https://darksouls3.wiki.fextralife.com/Dark+Sigil\">Dark Sigils</a>. Can be summoned near the Farron Keep Perimeter bonfire for the Abyss Watchers fight, or outside the fog gate for the Pontiff Sulyvahn fight if you are following the Lord of Hollows questline. Note that while the Londor Pale Shade can be summoned for the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Soul of Cinder\" href=\"https://darksouls3.wiki.fextralife.com/Soul+of+Cinder\">Soul of Cinder</a> fight, doing this will not grant you the gesture.</li></ul>"
+    },
+    {
+      "id": "legionetiquette",
+      "name": "Legion Etiquette",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/gestures",
+      "icon": "icons/legion_etiquette.png",
+      "description": "<ul><li>Received from the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Old Wolf of Farron\" href=\"https://darksouls3.wiki.fextralife.com/Old+Wolf+of+Farron\">Old Wolf of Farron</a> after praying to it near the Old Wolf of Farron bonfire within Farron Keep.</li></ul>"
+    },
+    {
+      "id": "darkmoonloyalty",
+      "name": "Darkmoon Loyalty",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/gestures",
+      "icon": "icons/darkmoon_loyalty.png",
+      "description": "<ul><li>Received from speaking with <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Sirris of the Sunless Realms\" href=\"https://darksouls3.wiki.fextralife.com/Sirris+of+the+Sunless+Realms\">Sirris of the Sunless Realms</a> in <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Firelink Shrine\" href=\"https://darksouls3.wiki.fextralife.com/Firelink+Shrine\">Firelink Shrine</a> after giving the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Dreamchaser's Ashes\" href=\"https://darksouls3.wiki.fextralife.com/Dreamchaser's+Ashes\">Dreamchaser's Ashes</a> to the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Shrine Handmaid\" href=\"https://darksouls3.wiki.fextralife.com/Shrine+Handmaid\" target=\"\">Shrine Handmaid</a>, if done before offering a <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Pale Tongue\" href=\"https://darksouls3.wiki.fextralife.com/Pale+Tongue\">Pale Tongue</a> to <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Rosaria\" href=\"https://darksouls3.wiki.fextralife.com/Rosaria\">Rosaria</a></li></ul>"
+    },
+    {
+      "id": "bymysword",
+      "name": "By My Sword",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/gestures",
+      "icon": "icons/by_my_sword.png",
+      "description": "<ul><li>Received from summoning <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Black Hand Gotthard\" href=\"https://darksouls3.wiki.fextralife.com/Black+Hand+Gotthard\">Black Hand Gotthard</a>, either before the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Abyss Watchers\" href=\"https://darksouls3.wiki.fextralife.com/Abyss+Watchers\">Abyss Watchers</a> or <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Pontiff Sulyvahn\" href=\"https://darksouls3.wiki.fextralife.com/Pontiff+Sulyvahn\">Pontiff Sulyvahn</a> fights.</li></ul>"
+    },
+    {
+      "id": "prayer",
+      "name": "Prayer",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/gestures",
+      "icon": "icons/prayer.png",
+      "description": "<ul><li>Received from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irina of Carim\" href=\"https://darksouls3.wiki.fextralife.com/Irina+of+Carim\">Irina of Carim</a>. Talk to her for the first time in the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Undead Settlement\" href=\"https://darksouls3.wiki.fextralife.com/Undead+Settlement\">Undead Settlement,</a> and agree to touch her.</li></ul>"
+    },
+    {
+      "id": "silentally",
+      "name": "Silent Ally",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/gestures",
+      "icon": "icons/silent_ally.png",
+      "description": "<ul><li>Received from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Orbeck of Vinheim\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim\">Orbeck of Vinheim</a> after purchasing <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Aural Decoy\" href=\"https://darksouls3.wiki.fextralife.com/Aural+Decoy\">Aural Decoy</a>, <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Farron Flashsword\" href=\"https://darksouls3.wiki.fextralife.com/Farron+Flashsword\">Farron Flashsword</a>, <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Pestilent Mist\" href=\"https://darksouls3.wiki.fextralife.com/Pestilent+Mist\">Pestilent Mist</a>, and <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Spook\" href=\"https://darksouls3.wiki.fextralife.com/Spook\">Spook</a>. Talk to him again after purchasing these spells, and he will give you this gesture.</li></ul>"
+    },
+    {
+      "id": "collapse",
+      "name": "Collapse",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/gestures",
+      "icon": "icons/_collapse.png",
+      "description": "<ul><li>Received from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Hawkwood\" href=\"https://darksouls3.wiki.fextralife.com/Hawkwood\">Hawkwood the Deserter</a> after talking to him for the first time.</li></ul>"
+    },
+    {
+      "id": "patchessquat",
+      "name": "Patches Squat",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/gestures",
+      "icon": "icons/patches_squat.png",
+      "description": "<ul><li>Received from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Unbreakable Patches\" href=\"https://darksouls3.wiki.fextralife.com/Unbreakable+Patches\">Unbreakable Patches</a>. Talk to him in <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Firelink Shrine\" href=\"https://darksouls3.wiki.fextralife.com/Firelink+Shrine\">Firelink Shrine</a>, then reload the area and he will be in this pose; talk to him to receive the gesture. Can also be received from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Lapp\" href=\"https://darksouls3.wiki.fextralife.com/Lapp\">Lapp</a> at the beginning of the Shared Grave in <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 The Ringed City (Location)\" href=\"https://darksouls3.wiki.fextralife.com/The+Ringed+City+(Location)\">The Ringed City</a> at the bottom of the staircase.</li></ul>"
+    },
+    {
+      "id": "prostration",
+      "name": "Prostration",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/gestures",
+      "icon": "icons/prostration.png",
+      "description": "<ul><li>Received from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Unbreakable Patches\" href=\"https://darksouls3.wiki.fextralife.com/Unbreakable+Patches\">Unbreakable Patches</a>, after replying \"No\" when he asks for forgiveness in <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Firelink Shrine\" href=\"https://darksouls3.wiki.fextralife.com/Firelink+Shrine\">Firelink Shrine</a>, or after confronting him in the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Cathedral of the Deep\" href=\"https://darksouls3.wiki.fextralife.com/Cathedral+of+the+Deep\">Cathedral of the Deep</a> after he lowers the bridge with \"You know who I am\".</li></ul>"
+    },
+    {
+      "id": "toast",
+      "name": "Toast",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/gestures",
+      "icon": "icons/toast.png",
+      "description": "<ul><li>Received from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Siegward of Catarina\" href=\"https://darksouls3.wiki.fextralife.com/Siegward+of+Catarina\">Siegward of Catarina.</a> Talk to him after defeating the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Demon\" href=\"https://darksouls3.wiki.fextralife.com/Demon\">Demon</a> in the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Undead Settlement\" href=\"https://darksouls3.wiki.fextralife.com/Undead+Settlement\">Undead Settlement,</a> or talk to him in the kitchen near the Distant Manor bonfire in <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irithyll of the Boreal Valley\" href=\"https://darksouls3.wiki.fextralife.com/Irithyll+of+the+Boreal+Valley\">Irithyll of the Boreal Valley</a> if previously missed.</li></ul>"
+    },
+    {
+      "id": "sleep",
+      "name": "Sleep",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/gestures",
+      "icon": "icons/sleep.png",
+      "description": "<ul><li>Received from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Siegward of Catarina\" href=\"https://darksouls3.wiki.fextralife.com/Siegward+of+Catarina\">Siegward of Catarina</a>. Talk to him after receiving the 'Toast' gesture after defeating the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Demon\" href=\"https://darksouls3.wiki.fextralife.com/Demon\">Demon</a> in the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Undead Settlement\" href=\"https://darksouls3.wiki.fextralife.com/Undead+Settlement\">Undead Settlement</a>, or talk to him in the kitchen near the Distant Manor bonfire in <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irithyll of the Boreal Valley\" href=\"https://darksouls3.wiki.fextralife.com/Irithyll+of+the+Boreal+Valley\">Irithyll of the Boreal Valley</a> after receiving the 'Toast' gesture if previously missed.</li></ul>"
+    },
+    {
+      "id": "curlup",
+      "name": "Curl Up",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/gestures",
+      "icon": "icons/curl_up.png",
+      "description": "<ul><li>Received from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Greirat of the Undead Settlement\" href=\"https://darksouls3.wiki.fextralife.com/Greirat+of+the+Undead+Settlement\">Greirat of the Undead Settlement</a>. Give him <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Loretta's Bone\" href=\"https://darksouls3.wiki.fextralife.com/Loretta's+Bone\">Loretta's Bone</a> in <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Firelink Shrine\" href=\"https://darksouls3.wiki.fextralife.com/Firelink+Shrine\">Firelink Shrine,</a> then reload the area and talk to him to receive the gesture.</li></ul>"
+    },
+    {
+      "id": "stretchout",
+      "name": "Stretch Out",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/gestures",
+      "icon": "icons/stretch_out.png",
+      "description": "<ul><li>Found in the <a class=\"description-link\" title=\"Dark Souls 3 Profaned Capital\" href=\"https://darksouls3.wiki.fextralife.com/Profaned+Capital\">Profaned Capital</a> on poor <a class=\"description-link\" title=\"Dark Souls 3 Laddersmith Gilligan\" href=\"https://darksouls2.wiki.fextralife.com/Laddersmith+Gilligan\" target=\"_blank\" rel=\"noopener noreferrer\">Laddersmith Gilligan's</a> corpse next to the Profaned Capital bonfire.</li></ul>"
+    },
+    {
+      "id": "pathofthedragon",
+      "name": "Path of The Dragon",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/gestures",
+      "icon": "icons/path_of_the_dragon.png",
+      "description": "<ul><li>Found on a Drakeblood Knight's corpse in the hallway past the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Oceiros, the Consumed King\" href=\"https://darksouls3.wiki.fextralife.com/Oceiros,+the+Consumed+King\">Oceiros, the Consumed King</a> fight. Gesture required to access <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Archdragon Peak\" href=\"https://darksouls3.wiki.fextralife.com/Archdragon+Peak\">Archdragon Peak</a>. <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Video Location\" href=\"https://www.youtube.com/watch?v=ouJV1KYCQ2w&amp;feature=youtu.be&amp;t=1h20m40s\">[Video Location]</a></li></ul>"
+    }
+  ],
+  "Miracles": [
+    {
+      "id": "healaid",
+      "name": "Heal Aid",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Heal+Aid",
+      "description": "<ul><li>Starting spell for <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Herald\" href=\"https://darksouls3.wiki.fextralife.com/Herald\">Herald</a></li><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Shrine Handmaid\" href=\"https://darksouls3.wiki.fextralife.com/Shrine+Handmaid\">Shrine Handmaid</a> for 500 souls</li></ul>",
+      "icon": "icons/heal_aid-icon.png"
+    },
+    {
+      "id": "heal",
+      "name": "Heal",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Heal",
+      "description": "<ul><li>Starting spell for <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Cleric\" href=\"https://darksouls3.wiki.fextralife.com/Cleric\">Cleric</a></li><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irina of Carim\" href=\"https://darksouls3.wiki.fextralife.com/Irina+of+Carim\">Irina of Carim</a> for 1,000 souls</li></ul>",
+      "icon": "icons/heal_aid-icon.png"
+    },
+    {
+      "id": "medheal",
+      "name": "Med Heal",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Med+Heal",
+      "description": "<ul><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irina of Carim\" href=\"https://darksouls3.wiki.fextralife.com/Irina+of+Carim\">Irina of Carim</a> for 3500 souls</li></ul>",
+      "icon": "icons/med_heal-icon.png",
+      "requirement": {
+        "name": "Braille Divine Tome of Carim",
+        "icon": "icons/braille_divine_tome_of_carim.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Braille+Divine+Tome+of+Carim"
+      }
+    },
+    {
+      "id": "greatheal",
+      "name": "Great Heal",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Great+Heal",
+      "description": "<ul><li>Found at corpse in the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irithyll of the Boreal Valley\" href=\"https://darksouls3.wiki.fextralife.com/Irithyll+of+the+Boreal+Valley\">Irithyll of the Boreal Valley</a></li></ul>",
+      "icon": "icons/great_heal-icon.png"
+    },
+    {
+      "id": "soothingsunlight",
+      "name": "Soothing Sunlight",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Soothing+Sunlight",
+      "description": "<ul><li>Acquired by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Soul of the Dancer\" href=\"https://darksouls3.wiki.fextralife.com/Soul+of+the+Dancer\">Soul of the Dancer</a> Transposition</li></ul>",
+      "icon": "icons/soothing_sunlight-icon.png"
+    },
+    {
+      "id": "replenishment",
+      "name": "Replenishment",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Replenishment",
+      "description": "<ul><li> Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irina of Carim\" href=\"https://darksouls3.wiki.fextralife.com/Irina+of+Carim\">Irina of Carim</a> for 1000 souls</li></ul>",
+      "icon": "icons/replenishment-icon.png"
+    },
+    {
+      "id": "bountifullight",
+      "name": "Bountiful Light",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Bountiful+Light",
+      "description": "<ul><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irina of Carim\" href=\"https://darksouls3.wiki.fextralife.com/Irina+of+Carim\">Irina of Carim</a> for 5000 souls</li></ul>",
+      "icon": "icons/bountiful_light-icon.png",
+      "requirement": {
+        "name": "Braille Divine Tome of Lothric",
+        "icon": "icons/braille_divine_tome_of_lothric.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Braille+Divine+Tome+of+Lothric"
+      }
+    },
+    {
+      "id": "bountifulsunlight",
+      "name": "Bountiful Sunlight",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Bountiful+Sunlight",
+      "description": "<ul><li>Acquired by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Soul of Rosaria\" href=\"https://darksouls3.wiki.fextralife.com/Soul+of+Rosaria\">Soul of Rosaria</a> Transposition</li></ul>",
+      "icon": "icons/bountiful_sunlight-icon.png"
+    },
+    {
+      "id": "caressingtears",
+      "name": "Caressing Tears",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Caressing+Tears",
+      "description": "<ul><li> Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irina of Carim\" href=\"https://darksouls3.wiki.fextralife.com/Irina+of+Carim\">Irina of Carim</a> for 1500 souls</li></ul>",
+      "icon": "icons/caressing_tears-icon.png"
+    },
+    {
+      "id": "tearsofdenial",
+      "name": "Tears of Denial",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Tears+of+Denial",
+      "description": "<ul><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irina of Carim\" href=\"https://darksouls3.wiki.fextralife.com/Irina+of+Carim\">Irina of Carim</a> for 10000 souls</li></ul>",
+      "icon": "icons/tears_of_denial-icon.png",
+      "requirement": {
+        "name": "Braille Divine Tome of Carim",
+        "icon": "icons/braille_divine_tome_of_carim.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Braille+Divine+Tome+of+Carim"
+      }
+    },
+    {
+      "id": "homeward",
+      "name": "Homeward",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Homeward",
+      "description": "<ul><li> Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irina of Carim\" href=\"https://darksouls3.wiki.fextralife.com/Irina+of+Carim\">Irina of Carim</a> for 3000 souls</li></ul>",
+      "icon": "icons/homeward-icon.png"
+    },
+    {
+      "id": "seekguidance",
+      "name": "Seek Guidance",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Seek+Guidance",
+      "description": "<ul><li>Looted from a corpse in <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Cathedral of the Deep\" href=\"https://darksouls3.wiki.fextralife.com/Cathedral+of+the+Deep\">Cathedral of the Deep</a>. Just past the first giant and down the stairs to the left. It's a sort of dark-ish room above the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Cathedral Knight\" href=\"https://darksouls3.wiki.fextralife.com/Cathedral+Knight\">Cathedral Knight</a> with the mace</li></ul>",
+      "icon": "icons/seek_guidance-icon.png"
+    },
+    {
+      "id": "sacredoath",
+      "name": "Sacred Oath",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Sacred+Oath",
+      "description": "<ul><li> <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Warrior of Sunlight\" href=\"https://darksouls3.wiki.fextralife.com/Warrior+of+Sunlight\">Warriors of Sunlight</a> Rank 1 reward</li></ul>",
+      "icon": "icons/SacredOath.png"
+    },
+    {
+      "id": "force",
+      "name": "Force",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Force",
+      "description": "<ul><li>Starting spell for <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Cleric\" href=\"https://darksouls3.wiki.fextralife.com/Cleric\">Cleric</a></li><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irina of Carim\" href=\"https://darksouls3.wiki.fextralife.com/Irina+of+Carim\">Irina of Carim</a> for 1000 souls</li></ul>",
+      "icon": "icons/force-icon.png",
+      "requirement": {
+        "name": "Braille Divine Tome of Carim",
+        "icon": "icons/braille_divine_tome_of_carim.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Braille+Divine+Tome+of+Carim"
+      }
+    },
+    {
+      "id": "emitforce",
+      "name": "Emit Force",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Emit+Force",
+      "description": "<ul><li>Acquired by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Siegward of Catarina\" href=\"https://darksouls3.wiki.fextralife.com/Siegward+of+Catarina\">Siegward of Catarina</a> during third encounter. Below <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irithyll of the Boreal Valley\" href=\"https://darksouls3.wiki.fextralife.com/Irithyll+of+the+Boreal+Valley\">Irithyll of the Boreal Valley</a> in a kitchen just after a sewer area</li></ul>",
+      "icon": "icons/emit_force-icon.png"
+    },
+    {
+      "id": "wrathofthegods",
+      "name": "Wrath of the Gods",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Wrath+of+the+Gods",
+      "description": "<ul><li>Acquired by dropping from the ledge near the spellcaster on the roof in <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Profaned Capital\" href=\"https://darksouls3.wiki.fextralife.com/Profaned+Capital\">Profaned Capital</a></li></ul>",
+      "icon": "icons/wrath_of_the_gods-icon.png"
+    },
+    {
+      "id": "lightningspear",
+      "name": "Lightning Spear",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Lightning+Spear",
+      "description": "<ul><li>Use the elevator near the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Old Wolf of Farron\" href=\"https://darksouls3.wiki.fextralife.com/Old+Wolf+of+Farron\">Old Wolf of Farron</a> and take the stairs up. Turn to the right and run to the closed gate. On the right side of the gate drop down and follow the path, one of the items there is Lightning Spear</li></ul>",
+      "icon": "icons/lightning_spear-icon.png"
+    },
+    {
+      "id": "greatlightningspear",
+      "name": "Great Lightning Spear",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Great+Lightning+Spear",
+      "description": "<ul><li><a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Warrior of Sunlight\" href=\"https://darksouls3.wiki.fextralife.com/Warrior+of+Sunlight\">Warriors of Sunlight</a> Rank 2 reward</li></ul>",
+      "icon": "icons/Great_lightning_spear2.png"
+    },
+    {
+      "id": "sunlightspear",
+      "name": "Sunlight Spear",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Sunlight+Spear",
+      "description": "<ul><li>Acquired by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Soul of the Lords\" href=\"https://darksouls3.wiki.fextralife.com/Soul+of+the+Lords\">Soul of the Lords</a> Transposition</li></ul>",
+      "icon": "icons/sunlight_spear-icon.png"
+    },
+    {
+      "id": "lightningstake",
+      "name": "Lightning Stake",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Lightning+Stake",
+      "description": "<ul><li>Dropped by the giant worm just before the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Old Demon King\" href=\"https://darksouls3.wiki.fextralife.com/Old+Demon+King\">Old Demon King</a> boss fight</li></ul>",
+      "icon": "icons/lightning_stake-icon.png"
+    },
+    {
+      "id": "lightningstorm",
+      "name": "Lightning Storm",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Lightning+Storm",
+      "description": "<ul><li>Acquired by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Soul of the Nameless King\" href=\"https://darksouls3.wiki.fextralife.com/Soul+of+the+Nameless+King\">Soul of the Nameless King</a> Transposition</li></ul>",
+      "icon": "icons/lightning_storm-icon.png"
+    },
+    {
+      "id": "divinepillarsoflight",
+      "name": "Divine Pillars of Light",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Divine+Pillars+of+Light",
+      "description": "<ul><li> Found at the top of the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Grand Archives\" href=\"https://darksouls3.wiki.fextralife.com/Grand+Archives\">Grand Archives</a> in a room after defeating three <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Ascended Winged Knight\" href=\"https://darksouls3.wiki.fextralife.com/Ascended+Winged+Knight\">Ascended Winged Knights</a> on the rooftops before the stairs leading to the boss encounter</li></ul>",
+      "icon": "icons/divine_pillars_of_light-icon.png"
+    },
+    {
+      "id": "blessedweapon",
+      "name": "Blessed Weapon",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Blessed+Weapon",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irina of Carim\" href=\"https://darksouls3.wiki.fextralife.com/Irina+of+Carim\">Irina of Carim</a> for 8000 souls</li></ul>",
+      "icon": "icons/blessed_weapon-icon.png",
+      "requirement": {
+        "name": "Braille Divine Tome of Lothric",
+        "icon": "icons/braille_divine_tome_of_lothric.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Braille+Divine+Tome+of+Lothric"
+      }
+    },
+    {
+      "id": "lightningblade",
+      "name": "Lightning Blade",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Lightning+Blade",
+      "description": "<ul><li> Located in <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irithyll Dungeon\" href=\"https://darksouls3.wiki.fextralife.com/Irithyll+Dungeon\">Irithyll Dungeon</a>. Can be found in the area near the broken dragon statue used to reach the Archdragon Peak</li></ul>",
+      "icon": "icons/lightning_blade-icon.png"
+    },
+    {
+      "id": "darkmoonblade",
+      "name": "Darkmoon Blade",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Darkmoon+Blade",
+      "description": "<ul><li><a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Blades of the Darkmoon\" href=\"https://darksouls3.wiki.fextralife.com/Blades+of+the+Darkmoon\">Blades of the Darkmoon</a> Covenant Rank 2 reward</li></ul>",
+      "icon": "icons/Darkmoon_blade3.png"
+    },
+    {
+      "id": "magicbarrier",
+      "name": "Magic Barrier",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Magic+Barrier",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irina of Carim\" href=\"https://darksouls3.wiki.fextralife.com/Irina+of+Carim\">Irina of Carim</a> for 5000 souls</li></ul>",
+      "icon": "icons/magic_barrier-icon.png",
+      "requirement": {
+        "name": "Braille Divine Tome of Lothric",
+        "icon": "icons/braille_divine_tome_of_lothric.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Braille+Divine+Tome+of+Lothric"
+      }
+    },
+    {
+      "id": "greatmagicbarrier",
+      "name": "Great Magic Barrier",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Great+Magic+Barrier",
+      "description": "<ul><li><a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Archdragon Peak\" href=\"https://darksouls3.wiki.fextralife.com/Archdragon+Peak\">Archdragon Peak</a>: Found off a ledge where you find <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Havel Knight\" href=\"https://darksouls3.wiki.fextralife.com/Havel+Knight\">Havel</a> and a dead dragon</li></ul>",
+      "icon": "icons/great_magic_barrier-icon.png"
+    },
+    {
+      "id": "darkblade",
+      "name": "Dark Blade",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Dark+Blade",
+      "description": "<ul><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irina of Carim\" href=\"https://darksouls3.wiki.fextralife.com/Irina+of+Carim\">Irina of Carim</a> or <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Karla\" href=\"https://darksouls3.wiki.fextralife.com/Karla\">Karla</a> for 10000 souls</li></ul>",
+      "icon": "icons/dark_blade-icon.png",
+      "requirement": {
+        "name": "Londor Braille Divine Tome",
+        "icon": "icons/londor_braille_divine_tome.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Londor+Braille+Divine+Tome"
+      }
+    },
+    {
+      "id": "vowofsilence",
+      "name": "Vow of Silence",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Vow+of+Silence",
+      "description": "<ul><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irina of Carim\" href=\"https://darksouls3.wiki.fextralife.com/Irina+of+Carim\">Irina of Carim</a> or <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Karla\" href=\"https://darksouls3.wiki.fextralife.com/Karla\">Karla</a> for 15000 souls</li></ul>",
+      "icon": "icons/vow_of_silence-icon.png",
+      "requirement": {
+        "name": "Londor Braille Divine Tome",
+        "icon": "icons/londor_braille_divine_tome.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Londor+Braille+Divine+Tome"
+      }
+    },
+    {
+      "id": "deadagain",
+      "name": "Dead Again",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Dead+Again",
+      "description": "<ul><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irina of Carim\" href=\"https://darksouls3.wiki.fextralife.com/Irina+of+Carim\">Irina of Carim</a> or <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Karla\" href=\"https://darksouls3.wiki.fextralife.com/Karla\">Karla</a> for 5000 souls</li></ul>",
+      "icon": "icons/dead_again-icon.png",
+      "requirement": {
+        "name": "Londor Braille Divine Tome",
+        "icon": "icons/londor_braille_divine_tome.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Londor+Braille+Divine+Tome"
+      }
+    },
+    {
+      "id": "atonement",
+      "name": "Atonement",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Atonement",
+      "description": "<ul><li>Farron Keep Perimeter bonfire. Turn around 180 degrees and follow the path until you reach a hole in the wall on your right. Drop down on the ledge below. The spell will be on a corpse</li></ul>",
+      "icon": "icons/attonement-icon.png"
+    },
+    {
+      "id": "deepprotection",
+      "name": "Deep Protection",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Deep+Protection",
+      "description": "<ul><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irina of Carim\" href=\"https://darksouls3.wiki.fextralife.com/Irina+of+Carim\">Irina of Carim</a> or <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Karla\" href=\"https://darksouls3.wiki.fextralife.com/Karla\">Karla</a> for 4000 souls</li></ul>",
+      "icon": "icons/deep_protection-icon.png",
+      "requirement": {
+        "name": "Deep Braille Divine Tome",
+        "icon": "icons/deep_braille_divine_tome.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Deep+Braille+Divine+Tome"
+      }
+    },
+    {
+      "id": "gnaw",
+      "name": "Gnaw",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Gnaw",
+      "description": "<ul><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irina of Carim\" href=\"https://darksouls3.wiki.fextralife.com/Irina+of+Carim\">Irina of Carim</a> or <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Karla\" href=\"https://darksouls3.wiki.fextralife.com/Karla\">Karla</a> for 2000 souls</li></ul>",
+      "icon": "icons/gnaw-icon.png",
+      "requirement": {
+        "name": "Deep Braille Divine Tome",
+        "icon": "icons/deep_braille_divine_tome.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Deep+Braille+Divine+Tome"
+      }
+    },
+    {
+      "id": "dorhysgawning",
+      "name": "Dorhy's Gnawing",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Dorhy's+Gawning",
+      "description": "<ul><li>Guaranteed kill reward from the screaming <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Cathedral Evangelist\" href=\"https://darksouls3.wiki.fextralife.com/Cathedral+Evangelist\">Evangelist</a> in <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irithyll of the Boreal Valley\" href=\"https://darksouls3.wiki.fextralife.com/Irithyll+of+the+Boreal+Valley\">Irithyll of the Boreal Valley</a>, found behind an illusory wall (fence).</li></ul>",
+      "icon": "icons/dorhys_gnawing-icon.png"
+    },
+    {
+      "id": "lifehuntscythe",
+      "name": "Lifehunt Scythe",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Lifehunt+Scythe",
+      "description": "<ul><li>Acquired from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Soul of Aldrich\" href=\"https://darksouls3.wiki.fextralife.com/Soul+of+Aldrich\">Soul of Aldrich</a> Transposition</li></ul>",
+      "icon": "icons/lifehunt_scythe-icon.png"
+    }
+  ],
+  "Sorceries": [
+    {
+      "id": "soularrow",
+      "name": "Soul Arrow",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Soul+Arrow",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Yoel of Londor\" href=\"https://darksouls3.wiki.fextralife.com/Yoel+of+Londor\">Yoel of Londor</a> for 1,000 souls</li><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Yuria of Londor\" href=\"https://darksouls3.wiki.fextralife.com/Yuria+of+Londor\">Yuria of Londor</a> for 1,000 souls</li><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Orbeck of Vinheim\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim\">Orbeck of Vinheim</a> for 1,000 souls</li><li>Starting Equipment for the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Sorcerer\" href=\"https://darksouls3.wiki.fextralife.com/Sorcerer\">Sorcerer </a></li></ul>",
+      "icon": "icons/soul_arrow-icon.png"
+    },
+    {
+      "id": "greatsoularrow",
+      "name": "Great Soul Arrow",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Great+Soul+Arrow",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Orbeck of Vinheim\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim\">Orbeck of Vinheim</a> for 3,000 souls</li></ul>",
+      "icon": "icons/great_soul_arrow-icon.png"
+    },
+    {
+      "id": "heavysoularrow",
+      "name": "Heavy Soul Arrow",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Heavy+Soul+Arrow",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Yoel of Londor\" href=\"https://darksouls3.wiki.fextralife.com/Yoel+of+Londor\">Yoel of Londor</a> for 2,000 souls </li><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Yuria of Londor\" href=\"https://darksouls3.wiki.fextralife.com/Yuria+of+Londor\">Yuria of Londor</a> for 2,000 souls</li><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Orbeck of Vinheim\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim\">Orbeck of Vinheim</a> for 2,000 souls</li><li>Starting Equipment for the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Sorcerer\" href=\"https://darksouls3.wiki.fextralife.com/Sorcerer\">Sorcerer</a></li></ul>",
+      "icon": "icons/heavy_soul_arrow-icon.png"
+    },
+    {
+      "id": "greatheavysoularrow",
+      "name": "Great Heavy Soul Arrow",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Great+Heavy+Soul+Arrow",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Orbeck of Vinheim\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim\">Orbeck of Vinheim</a> for 4,000 souls</li></ul>",
+      "icon": "icons/great_heavy_soul_arrow-icon.png"
+    },
+    {
+      "id": "farrondart",
+      "name": "Farron Dart",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Farron+Dart",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Yoel of Londor\" href=\"https://darksouls3.wiki.fextralife.com/Yoel+of+Londor\">Yoel of Londor</a> for 1,000 souls</li><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Orbeck of Vinheim\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim\">Orbeck of Vinheim</a> for 500 souls</li><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Shrine Handmaid\" href=\"https://darksouls3.wiki.fextralife.com/Shrine+Handmaid\">Shrine Handmaid</a> for 1,000 souls</li></ul>",
+      "icon": "icons/farron_dart-icon.png"
+    },
+    {
+      "id": "greatfarrondart",
+      "name": "Great Farron Dart",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Great+Farron+Dart",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Orbeck of Vinheim\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim\">Orbeck of Vinheim</a> for 2,000 souls</li></ul>",
+      "icon": "icons/great_farron_dart-icon.png",
+      "requirement": {
+        "name": "Sage's Scroll",
+        "icon": "icons/sages_scroll.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Sage's+Scroll"
+      }
+    },
+    {
+      "id": "farronhail",
+      "name": "Farron Hail",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Farron+Hail",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Orbeck of Vinheim\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim\">Orbeck of Vinheim</a> for 5,000 souls</li></ul>",
+      "icon": "icons/farron_hail-icon.png",
+      "requirement": {
+        "name": "Sage's Scroll",
+        "icon": "icons/sages_scroll.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Sage's+Scroll"
+      }
+    },
+    {
+      "id": "homingsoulmass",
+      "name": "Homing Soulmass",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Homing+Soulmass",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Orbeck of Vinheim\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim\">Orbeck of Vinheim</a> for 6,000 souls</li></ul>",
+      "icon": "icons/homing_soulmass-icon.png",
+      "requirement": {
+        "name": "Logan's Scroll",
+        "icon": "icons/logans_scroll.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Logan's+Scroll"
+      }
+    },
+    {
+      "id": "homingcrystalsoulmass",
+      "name": "Homing Crystal Soulmass",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Homing+Crystal+Soulmass",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Orbeck of Vinheim\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim\">Orbeck of Vinheim</a> for 18,000 souls</li></ul>",
+      "icon": "icons/homing_crystal_soulsmass-icon.png",
+      "requirement": {
+        "name": "Crystal Scroll",
+        "icon": "icons/crystal_scroll.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Crystal+Scroll"
+      }
+    },
+    {
+      "id": "crystalhail",
+      "name": "Crystal Hail",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Crystal+Hail",
+      "description": "<ul><li>Obtained by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Soul of a Crystal Sage\" href=\"https://darksouls3.wiki.fextralife.com/Soul+of+a+Crystal+Sage\">Soul of a Crystal Sage </a>Transposition</li></ul>",
+      "icon": "icons/crystal_hail-icon.png"
+    },
+    {
+      "id": "soulspear",
+      "name": "Soul Spear",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Soul+Spear",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Orbeck of Vinheim\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim\">Orbeck of Vinheim</a> for 5,000 souls.</li></ul>",
+      "icon": "icons/soul_spear-icon.png",
+      "requirement": {
+        "name": "Logan's Scroll",
+        "icon": "icons/logans_scroll.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Logan's+Scroll"
+      }
+    },
+    {
+      "id": "crystalsoulspear",
+      "name": "Crystal Soul Spear",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Crystal+Soul+Spear",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Orbeck of Vinheim\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim\">Orbeck of Vinheim</a> for 15,000 souls</li></ul>",
+      "icon": "icons/crystal_soul_spear-icon.png",
+      "requirement": {
+        "name": "Crystal Scroll",
+        "icon": "icons/crystal_scroll.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Crystal+Scroll"
+      }
+    },
+    {
+      "id": "whitedragonbreath",
+      "name": "White Dragon Breath",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/White+Dragon+Breath",
+      "description": "<ul><li>Obtained by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Soul of Consumed Oceiros\" href=\"https://darksouls3.wiki.fextralife.com/Soul+of+Consumed+Oceiros\">Soul of Consumed Oceiros</a> Transposition</li></ul>",
+      "icon": "icons/white_dragon_breath-icon.png"
+    },
+    {
+      "id": "soulstream",
+      "name": "Soul Stream",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Soul+Stream",
+      "description": "<ul><li>Found in <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Lothric Castle\" href=\"https://darksouls3.wiki.fextralife.com/Lothric+Castle\">Lothric Castle</a> in the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Grand Archives\" href=\"https://darksouls3.wiki.fextralife.com/Grand+Archives\">Grand Archives</a> behind a hidden room with a <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Boreal Knight\" href=\"https://darksouls3.wiki.fextralife.com/Boreal+Knight\">Boreal Knight</a>.</li></ul>",
+      "icon": "icons/soul_stream-icon.png"
+    },
+    {
+      "id": "soulgreatsword",
+      "name": "Soul Greatsword",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Soul+Greatsword",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Yoel of Londor\" href=\"https://darksouls3.wiki.fextralife.com/Yoel+of+Londor\">Yoel of Londor</a> for 5,000 souls</li><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Yuria of Londor\" href=\"https://darksouls3.wiki.fextralife.com/Yuria+of+Londor\">Yuria of Londor</a> for 5,000 souls</li><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Orbeck of Vinheim\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim\">Orbeck of Vinheim</a> for 5,000 souls</li></ul>",
+      "icon": "icons/soul_greatsword-icon.png"
+    },
+    {
+      "id": "farronflashsword",
+      "name": "Farron Flashsword",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Farron+Flashsword",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Orbeck Of Vinheim\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+Of+Vinheim\">Orbeck Of Vinheim</a> for 3,000 souls</li></ul>",
+      "icon": "icons/farron_flashsword-icon.png"
+    },
+    {
+      "id": "magicweapon",
+      "name": "Magic Weapon",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Magic+Weapon",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Yoel of Londor\" href=\"https://darksouls3.wiki.fextralife.com/Yoel+of+Londor\">Yoel of Londor</a> for 4,500 souls</li><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Yuria of Londor\" href=\"https://darksouls3.wiki.fextralife.com/Yuria+of+Londor\">Yuria of Londor</a> for 4,500 souls</li><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Orbeck of Vinheim\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim\">Orbeck of Vinheim</a> for 3,000 souls</li></ul>",
+      "icon": "icons/magic_weapon-icon.png"
+    },
+    {
+      "id": "greatmagicweapon",
+      "name": "Great Magic Weapon",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Great+Magic+Weapon",
+      "description": "<ul><li>From the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Farron Keep\" href=\"https://darksouls3.wiki.fextralife.com/Farron+Keep\">Farron Keep</a> Perimeter bonfire, turn around 180 and head towards the shortcut gate to <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Road of Sacrifices\" href=\"https://darksouls3.wiki.fextralife.com/Road+of+Sacrifices\">Road of Sacrifices</a>. The spell will be on a corpse at the gate.</li></ul>",
+      "icon": "icons/great_magic_weapon-icon.png"
+    },
+    {
+      "id": "crystalmagicweapon",
+      "name": "Crystal Magic Weapon",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Crystal+Magic+Weapon",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Orbeck of Vinheim\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim\">Orbeck of Vinheim</a> for 10,000 souls</li></ul>",
+      "icon": "icons/crystal_magic_weapon-icon.png",
+      "requirement": {
+        "name": "Crystal Scroll",
+        "icon": "icons/crystal_scroll.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Crystal+Scroll"
+      }
+    },
+    {
+      "id": "magicshield",
+      "name": "Magic Shield",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Magic+Shield",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Yoel of Londor\" href=\"https://darksouls3.wiki.fextralife.com/Yoel+of+Londor\">Yoel of Londor</a> for 4,500 souls</li><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Yuria of Londor\" href=\"https://darksouls3.wiki.fextralife.com/Yuria+of+Londor\">Yuria of Londor</a> for 4,500 souls</li><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Orbeck of Vinheim\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim\">Orbeck of Vinheim</a> for 3,000 souls</li></ul>",
+      "icon": "icons/magic_shield-icon.png"
+    },
+    {
+      "id": "greatmagicshield",
+      "name": "Great Magic Shield",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Great+Magic+Shield",
+      "description": "<ul><li>Found in <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irithyll Dungeon\" href=\"https://darksouls3.wiki.fextralife.com/Irithyll+Dungeon\">Irithyll Dungeon</a></li></ul>",
+      "icon": "icons/great_magic_shield-icon.png"
+    },
+    {
+      "id": "spook",
+      "name": "Spook",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Spook",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Orbeck Of Vinheim\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+Of+Vinheim\">Orbeck Of Vinheim</a> for 2,000 souls</li></ul>",
+      "icon": "icons/spook-icon.png"
+    },
+    {
+      "id": "auraldecoy",
+      "name": "Aural Decoy",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Aural+Decoy",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Orbeck of Vinheim\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim\">Orbeck of Vinheim</a> for 2,000 souls</li></ul>",
+      "icon": "icons/aural_decoy-icon.png"
+    },
+    {
+      "id": "pestilentmercury",
+      "name": "Pestilent Mercury",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Pestilent+Mercury",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Orbeck Of Vinheim\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+Of+Vinheim\">Orbeck Of Vinheim</a> for 1,000 souls</li></ul>",
+      "icon": "icons/pestilent_mercury-icon.png"
+    },
+    {
+      "id": "castlight",
+      "name": "Cast Light",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Cast+Light",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Orbeck Of Vinheim\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+Of+Vinheim\">Orbeck Of Vinheim</a> for 1,000 souls</li></ul>",
+      "icon": "icons/cast_light-icon.png",
+      "requirement": {
+        "name": "Golden Scroll",
+        "icon": "icons/golden_scroll.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Golden+Scroll"
+      }
+    },
+    {
+      "id": "repair",
+      "name": "Repair",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Repair",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Orbeck of Vinheim\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim\">Orbeck of Vinheim</a> for 2,000 souls</li></ul>",
+      "icon": "icons/repair-icon.png",
+      "requirement": {
+        "name": "Golden Scroll",
+        "icon": "icons/golden_scroll.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Golden+Scroll"
+      }
+    },
+    {
+      "id": "hiddenweapon",
+      "name": "Hidden Weapon",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Hidden+Weapon",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Orbeck of Vinheim\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim\">Orbeck of Vinheim</a> for 1,500 souls</li></ul>",
+      "icon": "icons/hidden_weapon-icon.png",
+      "requirement": {
+        "name": "Golden Scroll",
+        "icon": "icons/golden_scroll.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Golden+Scroll"
+      }
+    },
+    {
+      "id": "hiddenbody",
+      "name": "Hidden Body",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Hidden+Body",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Orbeck of Vinheim\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim\">Orbeck of Vinheim</a> for 3,000 souls</li></ul>",
+      "icon": "icons/hidden_body-icon.png",
+      "requirement": {
+        "name": "Golden Scroll",
+        "icon": "icons/golden_scroll.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Golden+Scroll"
+      }
+    },
+    {
+      "id": "chameleon",
+      "name": "Chameleon",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Chameleon",
+      "description": "<ul><li>Found near the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Church of Yorshka\" href=\"https://darksouls3.wiki.fextralife.com/Church+of+Yorshka\">Church of Yorshka</a> bonfire in <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irithyll of the Boreal Valley\" href=\"https://darksouls3.wiki.fextralife.com/Irithyll+of+the+Boreal+Valley\">Irithyll of the Boreal Valley</a> during <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Anri of Astora\" href=\"https://darksouls3.wiki.fextralife.com/Anri+of+Astora\">Anri of Astora's</a> questline. The spell will drop from an assassin disguised as a statue.</li><li>Found in the Darkmoon Tomb from the assassin's corpse if not killed earlier.</li></ul>",
+      "icon": "icons/chameleon-icon.png"
+    },
+    {
+      "id": "twistedwalloflight",
+      "name": "Twisted Wall of Light",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Twisted+Wall+of+Light",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Orbeck of Vinheim\" href=\"https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim\">Orbeck of Vinheim</a> for 6,000 souls</li></ul>",
+      "icon": "icons/twisted_wall_of_light-icon.png",
+      "requirement": {
+        "name": "Golden Scroll",
+        "icon": "icons/golden_scroll.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Golden+Scroll"
+      }
+    },
+    {
+      "id": "deepsoul",
+      "name": "Deep Soul",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Deep+Soul",
+      "description": "<ul><li>Obtained by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Soul of the Deacons of the Deep\" href=\"https://darksouls3.wiki.fextralife.com/Soul+of+the+Deacons+of+the+Deep\">Soul of the Deacons of the Deep</a> Transposition</li></ul>",
+      "icon": "icons/deep_soul-icon.png"
+    },
+    {
+      "id": "greatdeepsoul",
+      "name": "Great Deep Soul",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Great+Deep+Soul",
+      "description": "<ul><li>Reward for reaching rank 1 in the covenant <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Aldrich Faithful\" href=\"https://darksouls3.wiki.fextralife.com/Aldrich+Faithful\">Aldrich Faithful</a>.</li></ul>",
+      "icon": "icons/great_deep_soul-icon.png"
+    },
+    {
+      "id": "affinity",
+      "name": "Affinity",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Affinity",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Karla\" href=\"https://darksouls3.wiki.fextralife.com/Karla\">Karla</a> for 15,000 souls</li></ul>",
+      "icon": "icons/affinity-icon.png"
+    },
+    {
+      "id": "darkedge",
+      "name": "Dark Edge",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Dark+Edge",
+      "description": "<ul><li>Sold by <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Karla\" href=\"https://darksouls3.wiki.fextralife.com/Karla\">Karla</a> for 8,000 souls</li></ul>",
+      "icon": "icons/dark_edge-icon.png"
+    }
+  ],
+  "Pyromancies": [
+    {
+      "id": "fireball",
+      "name": "Fireball",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Fireball",
+      "description": "<ul><li><a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Pyromancer\" href=\"https://darksouls3.wiki.fextralife.com/Pyromancer\">Pyromancer</a> class starting spell</li><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Cornyx of the Great Swamp\" href=\"https://darksouls3.wiki.fextralife.com/Cornyx+of+the+Great+Swamp\">Cornyx of the Great Swamp</a> for 1000 souls</li></ul>",
+      "icon": "icons/fireball-icon.png"
+    },
+    {
+      "id": "fireorb",
+      "name": "Fire Orb",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Fire+Orb",
+      "description": "<ul><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Cornyx of the Great Swamp\" href=\"https://darksouls3.wiki.fextralife.com/Cornyx+of+the+Great+Swamp\">Cornyx of the Great Swamp</a> for 3000 souls</li></ul>",
+      "icon": "icons/fire_orb-icon.png",
+      "requirement": {
+        "name": "Great Swamp Pyromancy Tome",
+        "icon": "icons/great_swamp_pyromancy_tome.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Great+Swamp+Pyromancy+Tome"
+      }
+    },
+    {
+      "id": "burstingfireball",
+      "name": "Bursting Fireball",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Bursting+Fireball",
+      "description": "<ul><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Cornyx of the Great Swamp\" href=\"https://darksouls3.wiki.fextralife.com/Cornyx+of+the+Great+Swamp\">Cornyx of the Great Swamp</a> for 5000 souls</li></ul>",
+      "icon": "icons/bursting_fireball-icon.png",
+      "requirement": {
+        "name": "Great Swamp Pyromancy Tome",
+        "icon": "icons/great_swamp_pyromancy_tome.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Great+Swamp+Pyromancy+Tome"
+      }
+    },
+    {
+      "id": "greatchaosfireorb",
+      "name": "Great Chaos Fire Orb",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Great+Chaos+Fire+Orb",
+      "description": "<ul><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Cornyx of the Great Swamp\" href=\"https://darksouls3.wiki.fextralife.com/Cornyx+of+the+Great+Swamp\">Cornyx of the Great Swamp</a> for 10000 souls</li><li>Requires Izalith Pyromancy Tome</li></ul>",
+      "icon": "icons/great_chaos_fire_orb-icon.png"
+    },
+    {
+      "id": "chaosbedvestiges",
+      "name": "Chaos Bed Vestiges",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Chaos+Bed+Vestiges",
+      "description": "<ul><li>Transposed from Soul of the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Soul of the Old Demon King\" href=\"https://darksouls3.wiki.fextralife.com/Soul+of+the+Old+Demon+King\">Old Demon King </a>for 5000 souls</li></ul>",
+      "icon": "icons/chaos_bed_vestiges-icon.png"
+    },
+    {
+      "id": "firesurge",
+      "name": "Fire Surge",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Fire+Surge",
+      "description": "<ul><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Cornyx of the Great Swamp\" href=\"https://darksouls3.wiki.fextralife.com/Cornyx+of+the+Great+Swamp\">Cornyx of the Great Swamp</a> for 1000 souls</li></ul>",
+      "icon": "icons/fire_surge-icon.png"
+    },
+    {
+      "id": "firewhip",
+      "name": "Fire Whip",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Fire+Whip",
+      "description": "<ul><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Karla\" href=\"https://darksouls3.wiki.fextralife.com/Karla\">Karla</a> for 10000 souls</li></ul>",
+      "icon": "icons/fire_whip-icon.png",
+      "requirement": {
+        "name": "Quelana Pyromancy Tome",
+        "icon": "icons/quelana_pyromancy_tome.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Quelana+Pyromancy+Tome"
+      }
+    },
+    {
+      "id": "firestorm",
+      "name": "Firestorm",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Firestorm",
+      "description": "<ul><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Karla\" href=\"https://darksouls3.wiki.fextralife.com/Karla\">Karla</a> for 15000 souls</li></ul>",
+      "icon": "icons/fire_storm-icon.png",
+      "requirement": {
+        "name": "Quelana Pyromancy Tome",
+        "icon": "icons/quelana_pyromancy_tome.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Quelana+Pyromancy+Tome"
+      }
+    },
+    {
+      "id": "chaosstorm",
+      "name": "Chaos Storm",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Chaos+Storm",
+      "description": "<ul><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Cornyx of the Great Swamp\" href=\"https://darksouls3.wiki.fextralife.com/Cornyx+of+the+Great+Swamp\">Cornyx of the Great Swamp</a> for 12000 souls</li></ul>",
+      "icon": "icons/chaos_storm-icon.png",
+      "requirement": {
+        "name": "Izalith Pyromancy Tome",
+        "icon": "icons/izalith_pyromancy_tome.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Izalith+Pyromancy+Tome"
+      }
+    },
+    {
+      "id": "greatcombustion",
+      "name": "Great Combustion",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Great+Combustion",
+      "description": "<ul><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Cornyx of the Great Swamp\" href=\"https://darksouls3.wiki.fextralife.com/Cornyx+of+the+Great+Swamp\">Cornyx of the Great Swamp</a> for 3000 souls</li></ul>",
+      "icon": "icons/great_combustion-icon.png"
+    },
+    {
+      "id": "sacredflame",
+      "name": "Sacred Flame",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Sacred+Flame",
+      "description": "<ul><li>Found within the lava area of <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Smouldering Lake\" href=\"https://darksouls3.wiki.fextralife.com/Smouldering+Lake\">Smouldering Lake</a> where you fight Knight Slayer Tsorig</li></ul>",
+      "icon": "icons/sacred_flame-icon.png"
+    },
+    {
+      "id": "profanedflame",
+      "name": "Profaned Flame",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Profaned+Flame",
+      "description": "<ul><li>Found at the foot of the Giant in <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Irithyll Dungeon\" href=\"https://darksouls3.wiki.fextralife.com/Irithyll+Dungeon\">Irythyll Dungeon.</a></li></ul>",
+      "icon": "icons/profaned_flame-icon.png"
+    },
+    {
+      "id": "poisonmist",
+      "name": "Poison Mist",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Poison+Mist",
+      "description": "<ul><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Cornyx of the Great Swamp\" href=\"https://darksouls3.wiki.fextralife.com/Cornyx+of+the+Great+Swamp\">Cornyx of the Great Swamp</a> for 2000 souls</li></ul>",
+      "icon": "icons/poison_mist-icon.png",
+      "requirement": {
+        "name": "Great Swamp Pyromancy Tome",
+        "icon": "icons/great_swamp_pyromancy_tome.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Great+Swamp+Pyromancy+Tome"
+      }
+    },
+    {
+      "id": "toxicmist",
+      "name": "Toxic Mist",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Toxic+Mist",
+      "description": "<ul><li>Found on corpse in lava area of the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Smouldering Lake\" href=\"https://darksouls3.wiki.fextralife.com/Smouldering+Lake\">Smouldering Lake</a></li></ul>",
+      "icon": "icons/toxic_mist-icon.png"
+    },
+    {
+      "id": "acidsurge",
+      "name": "Acid Surge",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Acid+Surge",
+      "description": "<ul><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Cornyx of the Great Swamp\" href=\"https://darksouls3.wiki.fextralife.com/Cornyx+of+the+Great+Swamp\">Cornyx of the Great Swamp</a> for 6000 souls</li></ul>",
+      "icon": "icons/acid_surge-icon.png",
+      "requirement": {
+        "name": "Carthus Pyromancy Tome",
+        "icon": "icons/carthus_pyromancy_tome.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Carthus+Pyromancy+Tome"
+      }
+    },
+    {
+      "id": "flashsweat",
+      "name": "Flash Sweat",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Flash+Sweat",
+      "description": "<ul><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Cornyx of the Great Swamp\" href=\"https://darksouls3.wiki.fextralife.com/Cornyx+of+the+Great+Swamp\">Cornyx of the Great Swamp</a> for 1500 souls</li></ul>",
+      "icon": "icons/flash_sweat-icon.png"
+    },
+    {
+      "id": "profusesweat",
+      "name": "Profuse Sweat",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Profuse+Sweat",
+      "description": "<ul><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Cornyx of the Great Swamp\" href=\"https://darksouls3.wiki.fextralife.com/Cornyx+of+the+Great+Swamp\">Cornyx of the Great Swamp</a> for 2000 souls</li></ul>",
+      "icon": "icons/profuse_sweat-icon.png",
+      "requirement": {
+        "name": "Great Swamp Pyromancy Tome",
+        "icon": "icons/great_swamp_pyromancy_tome.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Great+Swamp+Pyromancy+Tome"
+      }
+    },
+    {
+      "id": "ironflesh",
+      "name": "Iron Flesh",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Iron+Flesh",
+      "description": "<ul><li> Found in the <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Farron Keep\" href=\"https://darksouls3.wiki.fextralife.com/Farron+Keep\">Farron Keep</a> swamp</li></ul>",
+      "icon": "icons/iron_flesh-icon.png"
+    },
+    {
+      "id": "powerwithin",
+      "name": "Power Within",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Power+Within",
+      "description": "<ul><li>Found on a corpse behind a hidden wall in <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Grand Archives\" href=\"https://darksouls3.wiki.fextralife.com/Grand+Archives\">Grand Archives</a>.</li></ul>",
+      "icon": "icons/power_within-icon.png"
+    },
+    {
+      "id": "carthusbeacon",
+      "name": "Carthus Beacon",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Carthus+Beacon",
+      "description": "<ul><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Cornyx of the Great Swamp\" href=\"https://darksouls3.wiki.fextralife.com/Cornyx+of+the+Great+Swamp\">Cornyx of the Great Swamp</a> for 8000 souls</li></ul>",
+      "icon": "icons/carthus_beacon-icon.png",
+      "requirement": {
+        "name": "Carthus Pyromancy Tome",
+        "icon": "icons/carthus_pyromancy_tome.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Carthus+Pyromancy+Tome"
+      }
+    },
+    {
+      "id": "carthusflamearc",
+      "name": "Carthus Flame Arc",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Carthus+Flame+Arc",
+      "description": "<ul><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Cornyx of the Great Swamp\" href=\"https://darksouls3.wiki.fextralife.com/Cornyx+of+the+Great+Swamp\">Cornyx of the Great Swamp</a> for 10000 souls</li></ul>",
+      "icon": "icons/carthus_flame_arc-icon.png",
+      "requirement": {
+        "name": "Carthus Pyromancy Tome",
+        "icon": "icons/carthus_pyromancy_tome.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Carthus+Pyromancy+Tome"
+      }
+    },
+    {
+      "id": "warmth",
+      "name": "Warmth",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Warmth",
+      "description": "<ul><li><a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Mound-Maker\" href=\"https://darksouls3.wiki.fextralife.com/Mound-Maker\">Mound Makers</a> Rank 2 reward</li></ul>",
+      "icon": "icons/warmth.png"
+    },
+    {
+      "id": "rapport",
+      "name": "Rapport",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Rapport",
+      "description": "<ul><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Karla\" href=\"https://darksouls3.wiki.fextralife.com/Karla\">Karla</a> for 7000 souls</li></ul>",
+      "icon": "icons/rapport-icon.png",
+      "requirement": {
+        "name": "Quelana Pyromancy Tome",
+        "icon": "icons/quelana_pyromancy_tome.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Quelana+Pyromancy+Tome"
+      }
+    },
+    {
+      "id": "boulderheave",
+      "name": "Boulder Heave",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Boulder+Heave",
+      "description": "<ul><li><a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Soul of a Stray Demon\" href=\"https://darksouls3.wiki.fextralife.com/Soul+of+a+Stray+Demon\">Soul of a Stray Demon</a></li></ul>",
+      "icon": "icons/boulder_heave-icon.png"
+    },
+    {
+      "id": "blackflame",
+      "name": "Black Flame",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Black+Flame",
+      "description": "<ul><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Karla\" href=\"https://darksouls3.wiki.fextralife.com/Karla\">Karla</a> for 10000 souls</li></ul>",
+      "icon": "icons/black_flame-icon.png",
+      "requirement": {
+        "name": "Grave Warden Pyromancy Tome",
+        "icon": "icons/grave_warden_pyromancy_tome.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Grave+Warden+Pyromancy+Tome"
+      }
+    },
+    {
+      "id": "blackfireorb",
+      "name": "Black Fire Orb",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Black+Fire+Orb",
+      "description": "<ul><li>Purchased from <a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Karla\" href=\"https://darksouls3.wiki.fextralife.com/Karla\">Karla</a> for 10000 souls</li></ul>",
+      "icon": "icons/black_fire_orb-icon.png",
+      "requirement": {
+        "name": "Grave Warden Pyromancy Tome",
+        "icon": "icons/grave_warden_pyromancy_tome.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Grave+Warden+Pyromancy+Tome"
+      }
+    },
+    {
+      "id": "blackserpent",
+      "name": "Black Serpent",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Black+Serpent",
+      "description": "<ul><li><a target=\"_blank\" rel=\"noreferrer\" class=\"description-link\" title=\"Dark Souls 3 Soul of High Lord Wolnir\" href=\"https://darksouls3.wiki.fextralife.com/Soul+of+High+Lord+Wolnir\">Soul of High Lord Wolnir</a></li></ul>",
+      "icon": "icons/black_serpent-icon.png"
+    }
+  ],
+  "Infusions": [
+    {
+      "id": "refined",
+      "name": "Refined",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Refined+Gem",
+      "icon": "icons/refined_gem-icon.png",
+      "description": "<ul><li>Used to infuse weapons with Refined properties. Requires a Refined Gem and the appropriate Coal if applicable.</li></ul>"
+    },
+    {
+      "id": "raw",
+      "name": "Raw",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Raw+Gem",
+      "icon": "icons/raw_gem-icon.png",
+      "description": "<ul><li>Used to infuse weapons with Raw properties. Requires a Raw Gem and the appropriate Coal if applicable.</li></ul>"
+    },
+    {
+      "id": "fire",
+      "name": "Fire",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Fire+Gem",
+      "icon": "icons/fire_gem-icon.png",
+      "description": "<ul><li>Used to infuse weapons with Fire properties. Requires a Fire Gem and the appropriate Coal if applicable.</li></ul>"
+    },
+    {
+      "id": "heavy",
+      "name": "Heavy",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Heavy+Gem",
+      "icon": "icons/heavy_gem-icon.png",
+      "requirement": {
+        "name": "Farron Coal",
+        "icon": "icons/farron_coal-icon.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Farron+Coal"
+      },
+      "description": "<ul><li>Used to infuse weapons with Heavy properties. Requires a Heavy Gem and the appropriate Coal if applicable.</li></ul>"
+    },
+    {
+      "id": "sharp",
+      "name": "Sharp",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Sharp+Gem",
+      "icon": "icons/sharp_gem-icon.png",
+      "requirement": {
+        "name": "Farron Coal",
+        "icon": "icons/farron_coal-icon.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Farron+Coal"
+      },
+      "description": "<ul><li>Used to infuse weapons with Sharp properties. Requires a Sharp Gem and the appropriate Coal if applicable.</li></ul>"
+    },
+    {
+      "id": "poison",
+      "name": "Poison",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Poison+Gem",
+      "icon": "icons/poison_gem-icon.png",
+      "requirement": {
+        "name": "Farron Coal",
+        "icon": "icons/farron_coal-icon.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Farron+Coal"
+      },
+      "description": "<ul><li>Used to infuse weapons with Poison properties. Requires a Poison Gem and the appropriate Coal if applicable.</li></ul>"
+    },
+    {
+      "id": "crystal",
+      "name": "Crystal",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Crystal+Gem",
+      "icon": "icons/crystal_gem-icon.png",
+      "requirement": {
+        "name": "Sage's Coal",
+        "icon": "icons/sages_coal-icon.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Sage's+Coal"
+      },
+      "description": "<ul><li>Used to infuse weapons with Crystal properties. Requires a Crystal Gem and the appropriate Coal if applicable.</li></ul>"
+    },
+    {
+      "id": "blessed",
+      "name": "Blessed",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Blessed+Gem",
+      "icon": "icons/blessed_gem-icon.png",
+      "requirement": {
+        "name": "Sage's Coal",
+        "icon": "icons/sages_coal-icon.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Sage's+Coal"
+      },
+      "description": "<ul><li>Used to infuse weapons with Blessed properties. Requires a Blessed Gem and the appropriate Coal if applicable.</li></ul>"
+    },
+    {
+      "id": "deep",
+      "name": "Deep",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Deep+Gem",
+      "icon": "icons/deep_gem-icon.png",
+      "requirement": {
+        "name": "Sage's Coal",
+        "icon": "icons/sages_coal-icon.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Sage's+Coal"
+      },
+      "description": "<ul><li>Used to infuse weapons with Deep properties. Requires a Deep Gem and the appropriate Coal if applicable.</li></ul>"
+    },
+    {
+      "id": "dark",
+      "name": "Dark",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Dark+Gem",
+      "icon": "icons/dark_gem-icon.png",
+      "requirement": {
+        "name": "Profaned Coal",
+        "icon": "icons/profaned_coal-icon.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Profaned+Coal"
+      },
+      "description": "<ul><li>Used to infuse weapons with Dark properties. Requires a Dark Gem and the appropriate Coal if applicable.</li></ul>"
+    },
+    {
+      "id": "blood",
+      "name": "Blood",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Blood+Gem",
+      "icon": "icons/blood_gem-icon.png",
+      "requirement": {
+        "name": "Profaned Coal",
+        "icon": "icons/profaned_coal-icon.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Profaned+Coal"
+      },
+      "description": "<ul><li>Used to infuse weapons with Blood properties. Requires a Blood Gem and the appropriate Coal if applicable.</li></ul>"
+    },
+    {
+      "id": "hollow",
+      "name": "Hollow",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Hollow+Gem",
+      "icon": "icons/hollow_gem-icon.png",
+      "requirement": {
+        "name": "Profaned Coal",
+        "icon": "icons/profaned_coal-icon.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Profaned+Coal"
+      },
+      "description": "<ul><li>Used to infuse weapons with Hollow properties. Requires a Hollow Gem and the appropriate Coal if applicable.</li></ul>"
+    },
+    {
+      "id": "lightning",
+      "name": "Lightning",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Lightning+Gem",
+      "icon": "icons/lightning_gem-icon.png",
+      "requirement": {
+        "name": "Giant's Coal",
+        "icon": "icons/giants_coal-icon.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Giant's+Coal"
+      },
+      "description": "<ul><li>Used to infuse weapons with Lightning properties. Requires a Lightning Gem and the appropriate Coal if applicable.</li></ul>"
+    },
+    {
+      "id": "simple",
+      "name": "Simple",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Simple+Gem",
+      "icon": "icons/simple_gem-icon.png",
+      "requirement": {
+        "name": "Giant's Coal",
+        "icon": "icons/giants_coal-icon.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Giant's+Coal"
+      },
+      "description": "<ul><li>Used to infuse weapons with Simple properties. Requires a Simple Gem and the appropriate Coal if applicable.</li></ul>"
+    },
+    {
+      "id": "chaos",
+      "name": "Chaos",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Chaos+Gem",
+      "icon": "icons/chaos_gem-icon.png",
+      "requirement": {
+        "name": "Giant's Coal",
+        "icon": "icons/giants_coal-icon.png",
+        "url": "https://darksouls3.wiki.fextralife.com/Giant's+Coal"
+      },
+      "description": "<ul><li>Used to infuse weapons with Chaos properties. Requires a Chaos Gem and the appropriate Coal if applicable.</li></ul>"
+    }
+  ],
+  "Rings +1": [
+    {
+      "id": "lifering1",
+      "name": "Life Ring +1",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Life+Ring",
+      "description": "<ul><li>(NG+1) Located in the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Undead+Settlement\">Undead Settlement</a>. Behind <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Siegward+of+Catarina\">Siegward</a> while he is waiting to battle the fire demon.</li></ul>",
+      "icon": "icons/lifering.png"
+    },
+    {
+      "id": "chloranthyring1",
+      "name": "Chloranthy Ring +1",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Chloranthy+Ring",
+      "description": "<ul><li>(NG+1) <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Irithyll+of+the+Boreal+Valley\">Irithyll of the Boreal Valley</a>. Behind the pedestal with the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Ring+of+the+Sun's+First+Born\">Ring of the Sun's First Born</a> on top of it. Easily accessible by falling from the ledge near Pontiff Sulyvahn's fog gate or walking from the Church of Yorshka.</li></ul>",
+      "icon": "icons/chloranthyring.png"
+    },
+    {
+      "id": "havelsring1",
+      "name": "Havel's Ring +1",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Havel's+Ring",
+      "description": "<ul><li>(NG+1) <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Archdragon+Peak\">Archdragon Peak.</a> From the altar that gives you the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Twinkling+Dragon+Torso+Stone\">Twinkling Dragon Torso Stone</a>, go back down the steps. The ring is to the right of the doorway.</li></ul>",
+      "icon": "icons/havelsring.png"
+    },
+    {
+      "id": "ringoffavor1",
+      "name": "Ring of Favor +1",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Ring+of+Favor",
+      "description": "<ul><li>(NG+1) Can be found in the room of <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Pontiff+Sulyvahn\">Pontiff Sulyvahn</a>'s bonfire, but is located upstairs. It can be either accessed by the shortcut in the room or taking the path around.</li></ul>",
+      "icon": "icons/ringoffavor.png"
+    },
+    {
+      "id": "ringofsteelprotection1",
+      "name": "Ring of Steel Protection +1",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Ring+of+Steel+Protection",
+      "description": "<ul><li>(NG+1) <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Untended+Graves\">Untended Graves</a> behind the tower that is unlocked by the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Tower+Key\">Tower Key</a></li></ul>",
+      "icon": "icons/ringofsteelprotection.png"
+    },
+    {
+      "id": "magicstoneplatering1",
+      "name": "Magic Stoneplate Ring +1",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Magic+Stoneplate+Ring",
+      "description": "<ul><li>(NG+1) <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Farron+Keep\">Farron Keep</a> bonfire before the swamp. From that bonfire, make a right and proceed to where the Basilisks are. The ring will be in this area.</li></ul>",
+      "icon": "icons/magicstoneplatering.png"
+    },
+    {
+      "id": "flamestoneplatering1",
+      "name": "Flame Stoneplate Ring +1",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Flame+Stoneplate+Ring",
+      "description": "<ul><li>(NG+1) Located in the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Profaned+Capital\">Profaned Capital</a>. In the area with the toxic swamp, climb up the building's ladder and walk along the curved part of roof until you see a hole in the wall to your right.  Look down, directly across from the broken section of wall is a small ledge to drop onto and the ring will be on a corpse.</li></ul>",
+      "icon": "icons/flamestoneplatering.png"
+    },
+    {
+      "id": "thunderstoneplatering1",
+      "name": "Thunder Stoneplate Ring +1",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Thunder+Stoneplate+Ring",
+      "description": "<ul><li>(NG+1) Can be found near the Carthus Milkring, among the many pots in the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Catacombs+of+Carthus\">Catacombs of Carthus</a></li></ul>",
+      "icon": "icons/thunderstoneplatering.png"
+    },
+    {
+      "id": "darkstoneplatering1",
+      "name": "Dark Stoneplate Ring +1",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Dark+Stoneplate+Ring",
+      "description": "<ul><li>(NG+1) <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Lothric+Castle\">Lothric Castle</a> Before entering the fog gate for the Dragonslayer Armour, head left and drop down to fight the Pus of Man on the white Wyvern. Next to the Wyvern is a room with a mimic and a doorway out to a balcony. This ring is located on right side the balcony.</li></ul>",
+      "icon": "icons/darkstoneplatering.png"
+    },
+    {
+      "id": "speckledstoneplatering1",
+      "name": "Speckled Stoneplate Ring +1",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Speckled+Stoneplate+Ring",
+      "description": "<ul><li>(NG+1) <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Cemetery+of+Ash\">Cemetery of Ash</a>. In the arena where you find the first Ravenous Crystal Lizard.</li></ul>",
+      "icon": "icons/speckledstoneplatering.png"
+    },
+    {
+      "id": "bloodbitering1",
+      "name": "Bloodbite Ring +1",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Bloodbite+Ring",
+      "description": "<ul><li>(NG+1) <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Smouldering+Lake\">Smouldering Lake</a>, make your way through the Demon Ruins to find it in front of the ballista.</li></ul>",
+      "icon": "icons/bloodbitering.png"
+    },
+    {
+      "id": "poisonbitering1",
+      "name": "Poisonbite Ring +1",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Poisonbite+Ring",
+      "description": "<ul><li>(NG+1) <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Undead+Settlement\">Undead Settlement</a> In the graveyard beside the white birch tree (Where the giant is shooting great arrows at you/enemies nearby) you'll find a well hidden in a corner. The ring is on a corpse behind the well.</li></ul>",
+      "icon": "icons/poisonbitering.png"
+    },
+    {
+      "id": "fleshbitering1",
+      "name": "Fleshbite Ring +1",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Fleshbite+Ring",
+      "description": "<ul><li>(NG+1) Located in the High Wall of Lothric. From the Tower on the Wall bonfire, head down to the roof with the transforming undead on it. Before descending the ladder to progress further, look to the nearby rooftop with fencing. Jumping will allow you access the rooftop and the ring will be on a corpse. (The item should be visible before jumping to the rooftop if you need confirmation)</li></ul>",
+      "icon": "icons/fleshbitering.png"
+    },
+    {
+      "id": "covetousgoldserpentring1",
+      "name": "Covetous Gold Serpent Ring +1",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Covetous+Gold+Serpent+Ring",
+      "description": "<ul><li>(NG+1) From the Church of Yorshka bonfire in Irithyll of the Boreal Valley, proceed beyond the graveyard to the dark room with the Irithyllian Slaves. As you're exiting the room through the wide arched doorway, scan the right side for a broken section of railing where you can drop down. The ring will be on a corpse wedged in the corner of the ledge.</li></ul>",
+      "icon": "icons/covetousgoldserpentring.png"
+    },
+    {
+      "id": "covetoussilverserpentring1",
+      "name": "Covetous Silver Serpent Ring +1",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Covetous+Silver+Serpent+Ring",
+      "description": "<ul><li>(NG+1) While progressing through <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Irithyll+Dungeon\">Irithyll Dungeon</a>, you'll find an elevator shortcut that heads to the first bonfire of the area. This ring is located on a ledge in the elevator room.</li></ul>",
+      "icon": "icons/covetoussilverserpentring.png"
+    },
+    {
+      "id": "lingeringdragoncrestring1",
+      "name": "Lingering Dragoncrest Ring +1",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Lingering+Dragoncrest+Ring",
+      "description": "<ul><li>(NG+1) Found next to the giant crab just below the Crucifixion Woods bonfire in the Road of Sacrifices.</li></ul>",
+      "icon": "icons/lingeringdragoncrestring.png"
+    },
+    {
+      "id": "sagering1",
+      "name": "Sage Ring +1",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Sage+Ring",
+      "description": "<ul><li>(NG+1) found in the rafters above the Archives. Drop down from the roof where the golden winged knights are located.</li></ul>",
+      "icon": "icons/sagering.png"
+    },
+    {
+      "id": "wolfring1",
+      "name": "Wolf Ring +1",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Wolf+Ring",
+      "description": "<ul><li>(NG+1) Can be found on a corpse immediately outside the Keep Ruins bonfire building.</li></ul>",
+      "icon": "icons/wolfring.png"
+    },
+    {
+      "id": "ringoftheevileye1",
+      "name": "Ring of the Evil Eye +1",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Ring+of+the+Evil+Eye",
+      "description": "<ul><li>(NG+1) Can be found just before <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Deacons+of+the+Deep\">Deacons of the Deep</a> fight, at the back of the altar.</li></ul>",
+      "icon": "icons/ringoftheevileye.png"
+    },
+    {
+      "id": "woodgrainring1",
+      "name": "Wood Grain Ring +1",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Wood+Grain+Ring",
+      "description": "<ul><li>(NG+1) Behind the first elevator in the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Consumed+King's+Garden\">Consumed King's Garden</a>, at the bottom.</li></ul>",
+      "icon": "icons/woodgrainring.png"
+    }
+  ],
+  "Rings +2": [
+    {
+      "id": "lifering2",
+      "name": "Life Ring +2",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Life+Ring",
+      "description": "<ul><li>(NG+2) <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Lothric+Castle\">Lothric Castle.</a> From the dark room where you fight the pus of man in the wyvern's hand, head outside from the back exit. Turn right and drop down off the ledge. The ring is on a corpse. This version can be picked up here starting in NG+.</li></ul>",
+      "icon": "icons/lifering.png"
+    },
+    {
+      "id": "chloranthyring2",
+      "name": "Chloranthy Ring +2",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Chloranthy+Ring",
+      "description": "<ul><li>(NG+2) From the first <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Road+of+Sacrifices\">Road of Sacrifices</a> bonfire, head to the wagon with the two Corvians. To the left is a crow mage. To the left of him there's a ledge that you can drop down to that has the ring.</li></ul>",
+      "icon": "icons/chloranthyring.png"
+    },
+    {
+      "id": "havelsring2",
+      "name": "Havel's Ring +2",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Havel's+Ring",
+      "description": "<ul><li>(NG+2) On a wooden beam below the Prison Tower bonfire in Irithyll of the Boreal Valley/Anor Londo, after Painting Guardian Curved Sword and the Painting Guardian Set.</li></ul>",
+      "icon": "icons/havelsring.png"
+    },
+    {
+      "id": "ringoffavor2",
+      "name": "Ring of Favor +2",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Ring+of+Favor",
+      "description": "<ul><li>(NG+2) Located in the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Cathedral+of+the+Deep\">Cathedral of the Deep</a>. From the Cleansing chapel bonfire, while facing the bonfire. go through the left shortcut, head up the elevator, climb the ladder behind the tower, drop down to the ledge, and follow the path to the top part of the chapel. To the left there is a hollow with a giant axe. behind him is this ring.</li></ul>",
+      "icon": "icons/ringoffavor.png"
+    },
+    {
+      "id": "ringofsteelprotection2",
+      "name": "Ring of Steel Protection +2",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Ring+of+Steel+Protection",
+      "description": "<ul><li>(NG+2) Located in the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Catacombs+of+Carthus\">Catacombs of Carthus</a>. From the Abyss Watchers Bonfire go down and head left until you find a bridge to your right. The bridge will be defended by a large skeleton carrying a sword and shield. Look down to the left and you will notice an item on a pillar. Drop down from the bridge onto the pillar to obtain this ring. Turn around to find the Carthus Pyromancy Tome.</li></ul>",
+      "icon": "icons/ringofsteelprotection.png"
+    },
+    {
+      "id": "magicstoneplatering2",
+      "name": "Magic Stoneplate Ring +2",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Magic+Stoneplate+Ring",
+      "description": "<ul><li>(NG+2) Start from the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Profaned+Capital\">Profaned Capital</a> Bonfire.  Take the ladder down into the tower and head through the hole in the wall. From there, turn right and go down the stairs. The ring is at the end of the stairs, on the edge of a cliff.</li></ul>",
+      "icon": "icons/magicstoneplatering.png"
+    },
+    {
+      "id": "flamestoneplatering2",
+      "name": "Flame Stoneplate Ring +2",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Flame+Stoneplate+Ring",
+      "description": "<ul><li>(NG+2) Located in the Demon Ruins. From the Old King's Antechamber bonfire, go down the immediate stairs and follow the path until you come to a fork in the path. Left will be an illusionary wall where there will be a Black Knight fighting a Ghru. The ring will be on a corpse near a wall, along with a <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Black+Knight+Sword\">Black Knight Sword</a>.</li></ul>",
+      "icon": "icons/flamestoneplatering.png"
+    },
+    {
+      "id": "thunderstoneplatering2",
+      "name": "Thunder Stoneplate Ring +2",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Thunder+Stoneplate+Ring",
+      "description": "<ul><li>(NG+2) Can be found before the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Dragonslayer+Armour\">Dragonslayer Armour</a> Boss in <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Lothric+Castle\">Lothric Castle</a>. Before the boss fight there's a door lit by torches. Proceed trough the door and up the stairs. Turn left trough another door then left again to find a hole in the stone railing. Drop down to the ledge below and turn right. Follow the ledge to find this ring. The ring is on the same small rooftop that you would drop down to get <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Caitha's+Chime\">Caitha's Chime</a>, it's just on the opposite end.</li></ul>",
+      "icon": "icons/thunderstoneplatering.png"
+    },
+    {
+      "id": "darkstoneplatering2",
+      "name": "Dark Stoneplate Ring +2",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Dark+Stoneplate+Ring",
+      "description": "<ul><li>(NG+2) <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Farron+Keep\">Farron Keep</a>, the Keep Ruins bonfire. Leave the room where you find 3 Ghru enemies on a bridge. Cross the bridge, you can find a dilapidated wall to your left. In front of the wall is a flame you need to extinguish to reach the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Abyss+Watchers\">Abyss Watchers</a>. The ring is behind this wall, you'll need to roll through some crucifixes to reach it.</li></ul>",
+      "icon": "icons/darkstoneplatering.png"
+    },
+    {
+      "id": "covetousgoldserpentring2",
+      "name": "Covetous Gold Serpent Ring +2",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Covetous+Gold+Serpent+Ring",
+      "description": "<ul><li>(NG+2) Archdragon Peak, in a large area that appears on defeating the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Nameless+King\">Nameless King</a>, on the right side of the arena from the gateway that the bonfire is under, the ring rests at the top of the third stairway. You can also find the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Dragonslayer+Set\">Dragonslayer Set</a> and a <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Titanite+Slab\">Titanite Slab</a> in this area.</li></ul>",
+      "icon": "icons/covetousgoldserpentring.png"
+    },
+    {
+      "id": "covetoussilverserpentring2",
+      "name": "Covetous Silver Serpent Ring +2",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Covetous+Silver+Serpent+Ring",
+      "description": "<ul><li>(NG+2) <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Undead+Settlement\">Undead Settlement</a>. In the area after meeting <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Siegward+of+Catarina\">Siegward</a> with the Fire Demon, located on the roof of a shack in the far back of the area. Drop off the wooden ledge outside the room with two Cathedral Evangelists to access it.</li></ul>",
+      "icon": "icons/covetoussilverserpentring.png"
+    },
+    {
+      "id": "lingeringdragoncrestring2",
+      "name": "Lingering Dragoncrest Ring +2",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Lingering+Dragoncrest+Ring",
+      "description": "<ul><li>(NG+2) Located in <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Lothric+Castle\">Lothric Castle</a>. Before the Lothric Prince Boss fight, there is a dome shaped roof with three golden Winged Knights. Go up the spiral staircase at the center of the dome shaped roof. You'll encounter a ladder, don't go up the ladder, instead go around the ledge to find this ring on a corpse hidden in an alcove.</li></ul>",
+      "icon": "icons/lingeringdragoncrestring.png"
+    },
+    {
+      "id": "sagering2",
+      "name": "Sage Ring +2",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Sage+Ring",
+      "description": "<ul><li>(NG+2) Located in the Consumed King's garden. When initially taking the elevator down, get off halfway to a ledge. Turn left and drop down onto some broken stairs. Pick up the item here and look to the left to find the ring on another set of broken stairs. You can get over there with a well-timed roll.</li></ul>",
+      "icon": "icons/sagering.png"
+    },
+    {
+      "id": "wolfring2",
+      "name": "Wolf Ring +2",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Wolf+Ring",
+      "description": "<ul><li>(NG+2) Can be found in Cemetery of Ash, after the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Iudex+Gundyr\">Iudex Gundyr</a> boss fight. It's lying behind the golden door, on the left.</li></ul>",
+      "icon": "icons/wolfring.png"
+    },
+    {
+      "id": "ringoftheevileye2",
+      "name": "Ring of the Evil Eye +2",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Ring+of+the+Evil+Eye",
+      "description": "<ul><li>(NG+2) Located in the <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/High+Wall+of+Lothric\">High Wall of Lothric</a>. From the second bonfire, head down to the roof with the first crystal lizard and the enemy that morphs. Climb the ladder down. Run past the spear wielding Lothric knight. Head down into the room with the estus shard on the mantle. The ring will be on the wall to the left, hidden behind a barrel.</li></ul>",
+      "icon": "icons/ringoftheevileye.png"
+    },
+    {
+      "id": "woodgrainring2",
+      "name": "Wood Grain Ring +2",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Wood+Grain+Ring",
+      "description": "<ul><li>(NG+2) <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Irithyll+of+the+Boreal+Valley\">Irithyll of the Boreal Valley</a>- Run past the room with the three Silver knights (room that contains Gwynevere's painting and Smough's hammer in a chest), go outside, turn right and the ring is located in an alcove.</li></ul>",
+      "icon": "icons/woodgrainring.png"
+    }
+  ],
+  "Rings +3": [
+    {
+      "id": "lifering3",
+      "name": "Life Ring +3",
+      "wikiLink": "https://darksouls3.wiki.fextralife.com/Life+Ring",
+      "description": "<ul><li>(NG+3) In <a class=\"description-link\" target=\"_blank\" href=\"https://darksouls3.wiki.fextralife.com/Untended+Graves\">Untended Graves</a> behind Holy King Lothric's throne.</li></ul>",
+      "icon": "icons/lifering.png"
+    }
+  ]
+}
