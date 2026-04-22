@@ -3,6 +3,7 @@
 A browser-based checklist for the collectible achievements in **Dark Souls III**. Track your progress toward the Platinum / 100% without ever leaving the page.
 
 ![Dark Souls III Achievement Companion](https://img.shields.io/badge/Dark%20Souls%20III-Achievement%20Companion-c8a84b?style=for-the-badge)
+[![Use it here](https://img.shields.io/badge/Use%20it%20here-4a90d9?style=for-the-badge)](https://lilquail.github.io/ds3-achievement-companion/)
 
 ## Features
 
