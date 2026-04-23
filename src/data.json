@@ -1532,21 +1532,21 @@
       "name": "Refined",
       "wikiLink": "https://darksouls3.wiki.fextralife.com/Refined+Gem",
       "icon": "icons/refined_gem-icon.png",
-      "description": "<ul><li>Used to infuse weapons with Refined properties. Requires a Refined Gem and the appropriate Coal if applicable.</li></ul>"
+      "description": "<ul><li>Infuse any weapon with a Refined Gem.</li></ul>"
     },
     {
       "id": "raw",
       "name": "Raw",
       "wikiLink": "https://darksouls3.wiki.fextralife.com/Raw+Gem",
       "icon": "icons/raw_gem-icon.png",
-      "description": "<ul><li>Used to infuse weapons with Raw properties. Requires a Raw Gem and the appropriate Coal if applicable.</li></ul>"
+      "description": "<ul><li>Infuse any weapon with a Raw Gem.</li></ul>"
     },
     {
       "id": "fire",
       "name": "Fire",
       "wikiLink": "https://darksouls3.wiki.fextralife.com/Fire+Gem",
       "icon": "icons/fire_gem-icon.png",
-      "description": "<ul><li>Used to infuse weapons with Fire properties. Requires a Fire Gem and the appropriate Coal if applicable.</li></ul>"
+      "description": "<ul><li>Infuse any weapon with a Fire Gem.</li></ul>"
     },
     {
       "id": "heavy",
@@ -1558,7 +1558,7 @@
         "icon": "icons/farron_coal-icon.png",
         "url": "https://darksouls3.wiki.fextralife.com/Farron+Coal"
       },
-      "description": "<ul><li>Used to infuse weapons with Heavy properties. Requires a Heavy Gem and the appropriate Coal if applicable.</li></ul>"
+      "description": "<ul><li>Infuse any weapon with a Heavy Gem.</li></ul>"
     },
     {
       "id": "sharp",
@@ -1570,7 +1570,7 @@
         "icon": "icons/farron_coal-icon.png",
         "url": "https://darksouls3.wiki.fextralife.com/Farron+Coal"
       },
-      "description": "<ul><li>Used to infuse weapons with Sharp properties. Requires a Sharp Gem and the appropriate Coal if applicable.</li></ul>"
+      "description": "<ul><li>Infuse any weapon with a Sharp Gem.</li></ul>"
     },
     {
       "id": "poison",
@@ -1582,7 +1582,7 @@
         "icon": "icons/farron_coal-icon.png",
         "url": "https://darksouls3.wiki.fextralife.com/Farron+Coal"
       },
-      "description": "<ul><li>Used to infuse weapons with Poison properties. Requires a Poison Gem and the appropriate Coal if applicable.</li></ul>"
+      "description": "<ul><li>Infuse any weapon with a Poison Gem.</li></ul>"
     },
     {
       "id": "crystal",
@@ -1594,7 +1594,7 @@
         "icon": "icons/sages_coal-icon.png",
         "url": "https://darksouls3.wiki.fextralife.com/Sage's+Coal"
       },
-      "description": "<ul><li>Used to infuse weapons with Crystal properties. Requires a Crystal Gem and the appropriate Coal if applicable.</li></ul>"
+      "description": "<ul><li>Infuse any weapon with a Crystal Gem.</li></ul>"
     },
     {
       "id": "blessed",
@@ -1606,7 +1606,7 @@
         "icon": "icons/sages_coal-icon.png",
         "url": "https://darksouls3.wiki.fextralife.com/Sage's+Coal"
       },
-      "description": "<ul><li>Used to infuse weapons with Blessed properties. Requires a Blessed Gem and the appropriate Coal if applicable.</li></ul>"
+      "description": "<ul><li>Infuse any weapon with a Blessed Gem.</li></ul>"
     },
     {
       "id": "deep",
@@ -1618,7 +1618,7 @@
         "icon": "icons/sages_coal-icon.png",
         "url": "https://darksouls3.wiki.fextralife.com/Sage's+Coal"
       },
-      "description": "<ul><li>Used to infuse weapons with Deep properties. Requires a Deep Gem and the appropriate Coal if applicable.</li></ul>"
+      "description": "<ul><li>Infuse any weapon with a Deep Gem.</li></ul>"
     },
     {
       "id": "dark",
@@ -1630,7 +1630,7 @@
         "icon": "icons/profaned_coal-icon.png",
         "url": "https://darksouls3.wiki.fextralife.com/Profaned+Coal"
       },
-      "description": "<ul><li>Used to infuse weapons with Dark properties. Requires a Dark Gem and the appropriate Coal if applicable.</li></ul>"
+      "description": "<ul><li>Infuse any weapon with a Dark Gem.</li></ul>"
     },
     {
       "id": "blood",
@@ -1642,7 +1642,7 @@
         "icon": "icons/profaned_coal-icon.png",
         "url": "https://darksouls3.wiki.fextralife.com/Profaned+Coal"
       },
-      "description": "<ul><li>Used to infuse weapons with Blood properties. Requires a Blood Gem and the appropriate Coal if applicable.</li></ul>"
+      "description": "<ul><li>Infuse any weapon with a Blood Gem.</li></ul>"
     },
     {
       "id": "hollow",
@@ -1654,7 +1654,7 @@
         "icon": "icons/profaned_coal-icon.png",
         "url": "https://darksouls3.wiki.fextralife.com/Profaned+Coal"
       },
-      "description": "<ul><li>Used to infuse weapons with Hollow properties. Requires a Hollow Gem and the appropriate Coal if applicable.</li></ul>"
+      "description": "<ul><li>Infuse any weapon with a Hollow Gem.</li></ul>"
     },
     {
       "id": "lightning",
@@ -1666,7 +1666,7 @@
         "icon": "icons/giants_coal-icon.png",
         "url": "https://darksouls3.wiki.fextralife.com/Giant's+Coal"
       },
-      "description": "<ul><li>Used to infuse weapons with Lightning properties. Requires a Lightning Gem and the appropriate Coal if applicable.</li></ul>"
+      "description": "<ul><li>Infuse any weapon with a Lightning Gem.</li></ul>"
     },
     {
       "id": "simple",
@@ -1678,7 +1678,7 @@
         "icon": "icons/giants_coal-icon.png",
         "url": "https://darksouls3.wiki.fextralife.com/Giant's+Coal"
       },
-      "description": "<ul><li>Used to infuse weapons with Simple properties. Requires a Simple Gem and the appropriate Coal if applicable.</li></ul>"
+      "description": "<ul><li>Infuse any weapon with a Simple Gem.</li></ul>"
     },
     {
       "id": "chaos",
@@ -1690,7 +1690,7 @@
         "icon": "icons/giants_coal-icon.png",
         "url": "https://darksouls3.wiki.fextralife.com/Giant's+Coal"
       },
-      "description": "<ul><li>Used to infuse weapons with Chaos properties. Requires a Chaos Gem and the appropriate Coal if applicable.</li></ul>"
+      "description": "<ul><li>Infuse any weapon with a Chaos Gem.</li></ul>"
     }
   ],
   "Rings +1": [

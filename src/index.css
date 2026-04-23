@@ -57,6 +57,7 @@ body, html {
     display: flex;
     align-items: center;
     justify-content: center;
+    min-width: 0;
 }
 
 .button-base:hover {
@@ -283,10 +284,16 @@ body, html {
 
 .main-nav-top {
     background-color: var(--background-color-lighter);
-    height: 3em;
+    min-height: 3em;
     width: 100%;
     align-items: center;
     margin-bottom: 1em;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+.main-nav-top .flex-container {
+    min-width: max-content;
 }
 
 .nav-button-base {
@@ -302,6 +309,7 @@ body, html {
     background: none;
     border: none;
     outline: none;
+    white-space: nowrap;
 }
 
 .nav-button-base-selected {
@@ -337,10 +345,12 @@ body, html {
 .filter-search-row {
     display: flex;
     width: 100%;
+    flex-wrap: wrap;
+    gap: 1em;
 }
 
 .filter-search-row > *:nth-child(n) {
-    margin-right: 1em;
+    margin-right: 0;
 }
 
 .filter-search-row > *:last-child {
@@ -351,6 +361,7 @@ body, html {
     position: relative;
     display: flex;
     min-width: 0;
+    flex: 1 1 22em;
 }
 
 .search-input-wrapper .text-input-base {
@@ -375,14 +386,16 @@ body, html {
     padding: 0.8em 0;
     /* Removed align-items: center to match OG stretch behavior */
     min-height: 5em;
+    gap: 1em;
 }
 
 .single-item-record-wrapper > *:not(:last-child) {
-    margin-right: 1em;
+    margin-right: 0;
 }
 
 .item-main-col {
-    width: 20%;
+    flex: 0 0 20%;
+    min-width: 12em;
     display: flex;
     align-items: center;
     flex-shrink: 0;
@@ -391,9 +404,14 @@ body, html {
 }
 
 .description-container {
-    flex-grow: 1;
+    flex: 1 1 0;
     /* display: flex; align-items: center; removed to allow top-alignment like OG */
     padding: 0 1em;
+    min-width: 12em;
+}
+
+.description-container.with-requirement {
+    flex-basis: 50%;
 }
 
 .description-container ul {
@@ -401,7 +419,8 @@ body, html {
 }
 
 .requirement-col {
-    width: 20%;
+    flex: 0 0 20%;
+    min-width: 12em;
     display: flex;
     align-items: center;
     justify-content: flex-end;
@@ -458,6 +477,8 @@ body, html {
     cursor: pointer;
     display: flex;
     align-items: center;
+    flex: 0 0 10%;
+    min-width: 8em;
 }
 
 .single-item-record-wrapper .button-base:hover {
@@ -554,4 +575,79 @@ body, html {
 .modal-btn-confirm:hover {
     background-color: #a83030;
     color: #fff;
+}
+
+@media (max-width: 900px) {
+    body, html,
+    #root {
+        overflow: auto;
+    }
+
+    .body-area {
+        min-height: 100%;
+        height: auto;
+    }
+
+    .main-feature-view {
+        height: auto;
+        margin: 0 0.5em;
+    }
+
+    .form-wrapper-inner {
+        padding: 0.75em;
+    }
+
+    .filter-search-row .button-base {
+        flex: 1 1 10em;
+    }
+
+    .single-item-record-wrapper {
+        flex-wrap: wrap;
+        padding: 0.8em;
+    }
+
+    .item-main-col,
+    .description-container,
+    .description-container.with-requirement,
+    .requirement-col,
+    .single-item-record-wrapper .button-base {
+        flex: 1 1 100%;
+        width: auto;
+        min-width: 0;
+    }
+
+    .description-container {
+        padding: 0;
+    }
+
+    .requirement-col {
+        justify-content: flex-start;
+        padding-right: 0;
+    }
+
+    .single-item-record-wrapper .button-base {
+        min-height: 3em;
+    }
+}
+
+@media (max-width: 520px) {
+    .base-font {
+        font-size: 11px;
+    }
+
+    .nav-button-base {
+        padding: 0 1em;
+    }
+
+    .search-input-wrapper {
+        flex-basis: 100%;
+    }
+
+    .modal-box {
+        padding: 1.5em;
+    }
+
+    .modal-buttons {
+        flex-direction: column;
+    }
 }

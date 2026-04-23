@@ -4,6 +4,8 @@ import data from './data.json';
 import './index.css';
 
 type Category = keyof typeof data;
+type ActiveCategory = Category | 'Home' | 'All';
+
 const categories: Category[] = [
   'Rings',
   'Rings +1',
@@ -15,6 +17,74 @@ const categories: Category[] = [
   'Pyromancies',
   'Infusions',
 ];
+
+const categorySet = new Set<string>(categories);
+const ringCategories: Category[] = ['Rings', 'Rings +1', 'Rings +2', 'Rings +3'];
+
+const isCategory = (value: string): value is Category => categorySet.has(value);
+
+const isActiveCategory = (value: string | null): value is ActiveCategory => {
+  return value === 'Home' || value === 'All' || (value !== null && isCategory(value));
+};
+
+const getStoredActiveCategory = (): ActiveCategory => {
+  const saved = localStorage.getItem('ds3-active-category');
+  return isActiveCategory(saved) ? saved : 'Home';
+};
+
+const getStoredCollected = (): Set<string> => {
+  const saved = localStorage.getItem('ds3-collected');
+  if (!saved) return new Set();
+
+  try {
+    const parsed: unknown = JSON.parse(saved);
+    if (!Array.isArray(parsed)) return new Set();
+
+    return new Set(parsed.filter((id): id is string => typeof id === 'string'));
+  } catch {
+    return new Set();
+  }
+};
+
+const sanitizeDescriptionHtml = (html: string): string => {
+  if (typeof document === 'undefined') return html;
+
+  const template = document.createElement('template');
+  template.innerHTML = html;
+  const allowedTags = new Set(['A', 'BR', 'LI', 'OL', 'P', 'STRONG', 'EM', 'UL']);
+
+  template.content.querySelectorAll('*').forEach(element => {
+    if (!allowedTags.has(element.tagName)) {
+      element.replaceWith(...Array.from(element.childNodes));
+      return;
+    }
+
+    for (const attribute of Array.from(element.attributes)) {
+      const attrName = attribute.name.toLowerCase();
+      const attrValue = attribute.value.trim();
+      const isAllowedLinkAttr =
+        element.tagName === 'A' &&
+        ['class', 'href', 'rel', 'target'].includes(attrName);
+
+      if (!isAllowedLinkAttr || attrName.startsWith('on')) {
+        element.removeAttribute(attribute.name);
+        continue;
+      }
+
+      if (attrName === 'href' && !/^https?:\/\//i.test(attrValue)) {
+        element.removeAttribute(attribute.name);
+      }
+    }
+
+    if (element.tagName === 'A') {
+      element.setAttribute('class', 'description-link');
+      element.setAttribute('target', '_blank');
+      element.setAttribute('rel', 'noreferrer');
+    }
+  });
+
+  return template.innerHTML;
+};
 
 const categoryDisplayNames: Record<string, string> = {
   Rings: 'Master of Rings',
@@ -42,9 +112,7 @@ interface Item {
 }
 
 export default function App() {
-  const [activeCategory, setActiveCategory] = useState<string>(() => {
-    return localStorage.getItem('ds3-active-category') || 'Home';
-  });
+  const [activeCategory, setActiveCategory] = useState<ActiveCategory>(getStoredActiveCategory);
   const [searchQuery, setSearchQuery] = useState('');
   const [hideCollected, setHideCollected] = useState<boolean>(() =>
     localStorage.getItem('ds3-hide-collected') === 'true'
@@ -55,10 +123,7 @@ export default function App() {
   });
   const [showClearConfirm, setShowClearConfirm] = useState(false);
   
-  const [collected, setCollected] = useState<Set<string>>(() => {
-    const saved = localStorage.getItem('ds3-collected');
-    return saved ? new Set(JSON.parse(saved)) : new Set();
-  });
+  const [collected, setCollected] = useState<Set<string>>(getStoredCollected);
 
   useEffect(() => {
     localStorage.setItem('ds3-active-category', activeCategory);
@@ -90,14 +155,9 @@ export default function App() {
 
     let catItems: Item[] = [];
     if (activeCategory === 'Rings') {
-      catItems = [
-        ...(data['Rings'] as Item[]),
-        ...(data['Rings +1'] as Item[]),
-        ...(data['Rings +2'] as Item[]),
-        ...(data['Rings +3'] as Item[]),
-      ];
+      catItems = ringCategories.flatMap(cat => data[cat] as Item[]);
     } else {
-      catItems = data[activeCategory as Category] as Item[];
+      catItems = data[activeCategory] as Item[];
     }
     
     if (!catItems || catItems.length === 0) return;
@@ -152,7 +212,7 @@ export default function App() {
     setGroupRingVariants(!groupRingVariants);
   };
 
-  const handleCategoryChange = (cat: string) => {
+  const handleCategoryChange = (cat: ActiveCategory) => {
     setActiveCategory(cat);
     setSearchQuery('');
   };
@@ -162,11 +222,7 @@ export default function App() {
     
     if (activeCategory === 'Rings' && !groupRingVariants) {
       const baseRings = data['Rings'] as Item[];
-      const ring1 = data['Rings +1'] as Item[];
-      const ring2 = data['Rings +2'] as Item[];
-      const ring3 = data['Rings +3'] as Item[];
-      
-      const allRings = [...baseRings, ...ring1, ...ring2, ...ring3].filter((item: Item) => {
+      const allRings = ringCategories.flatMap(cat => data[cat] as Item[]).filter((item: Item) => {
         const matchesSearch = item.name.toLowerCase().includes(searchQuery.toLowerCase());
         const isCollected = collected.has(item.id);
         const matchesHide = hideCollected ? !isCollected : true;
@@ -189,13 +245,13 @@ export default function App() {
     if (activeCategory === 'All') {
       catsToRender = categories;
     } else if (activeCategory === 'Rings') {
-      catsToRender = ['Rings', 'Rings +1', 'Rings +2', 'Rings +3'];
+      catsToRender = ringCategories;
     } else {
-      catsToRender = [activeCategory as Category];
+      catsToRender = [activeCategory];
     }
     
     return catsToRender.map(cat => {
-      const items = data[cat as Category].filter((item: Item) => {
+      const items = data[cat].filter((item: Item) => {
         const matchesSearch = item.name.toLowerCase().includes(searchQuery.toLowerCase());
         const isCollected = collected.has(item.id);
         const matchesHide = hideCollected ? !isCollected : true;
@@ -211,14 +267,9 @@ export default function App() {
     if (activeCategory === 'All') {
       allItems = categories.flatMap(c => data[c] as Item[]);
     } else if (activeCategory === 'Rings') {
-      allItems = [
-        ...(data['Rings'] as Item[]),
-        ...(data['Rings +1'] as Item[]),
-        ...(data['Rings +2'] as Item[]),
-        ...(data['Rings +3'] as Item[]),
-      ];
+      allItems = ringCategories.flatMap(cat => data[cat] as Item[]);
     } else {
-      allItems = data[activeCategory as Category] as Item[];
+      allItems = data[activeCategory] as Item[];
     }
     const total = allItems.length;
     const done = allItems.filter(item => collected.has(item.id)).length;
@@ -377,7 +428,10 @@ export default function App() {
                               <a className="title-link" target="_blank" href={item.wikiLink} rel="noreferrer" style={{ marginLeft: '1em' }}>{item.name}</a>
                             </div>
                             
-                            <div className="description-container" style={{ width: item.requirement ? '50%' : '70%' }} dangerouslySetInnerHTML={{ __html: item.description || '' }}></div>
+                            <div
+                              className={`description-container ${item.requirement ? 'with-requirement' : ''}`}
+                              dangerouslySetInnerHTML={{ __html: sanitizeDescriptionHtml(item.description || '') }}
+                            ></div>
                             
                             {item.requirement && (
                               <div className="requirement-col">
@@ -397,7 +451,6 @@ export default function App() {
                             
                             <button 
                               className="button-base" 
-                              style={{ width: '10%' }}
                               onClick={() => toggleItem(item.id)}
                             >
                               {isCollected ? 'Un-Collect' : 'Collect'}
